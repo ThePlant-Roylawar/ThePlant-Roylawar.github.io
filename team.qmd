@@ -1,0 +1,174 @@
+---
+title: "Our Team"
+---
+
+Our laboratory brings together researchers working on plant–microbiome interactions, microbial ecology, plant pathology, and sustainable agriculture. We foster a collaborative and interdisciplinary research environment.
+
+---
+
+## Principal Investigator
+
+::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/praveen.jpg){.pi-photo}
+
+:::
+
+::: {.column width="75%"}
+
+### Dr. Praveen B. Roylawar
+
+**Assistant Professor**  
+Department of Botany
+
+**Research Interests**
+
+- Plant–Microbiome Interactions
+- Rhizosphere Microbiology
+- Plant Pathology
+- Metagenomics
+- Sustainable Agriculture
+
+:::
+
+:::
+
+---
+
+## Ph.D. Scholars
+
+::: {.team-grid}
+
+::: {.team-card}
+
+![](images/team-placeholder.jpg){.team-photo}
+
+<div class="team-name">
+Ms. Shreya Kasar
+</div>
+
+<div class="team-role">
+Ph.D. Scholar
+</div>
+
+<div class="team-project">
+
+**Research Topic**
+
+Nanoparticle-based Management of Onion Fungal Diseases and Rhizosphere Microbiome Modulation.
+
+---
+
+**Research Areas**
+
+- Plant Pathology
+- Nanotechnology
+- Rhizosphere Microbiome
+- Metagenomics
+
+</div>
+
+:::
+
+::: {.team-card}
+
+![](images/team-placeholder.jpg){.team-photo}
+
+<div class="team-name">
+Mr. Dhananjay Shirsat
+</div>
+
+<div class="team-role">
+Ph.D. Scholar
+</div>
+
+<div class="team-project">
+
+**Research Topic**
+
+Exploring Rhizosphere Microflora for the Biological Control of Onion (*Allium cepa* L.) Pest.
+
+---
+
+**Research Areas**
+
+- Biological Control
+- Rhizosphere Microbiology
+- Plant–Microbe Interactions
+- Insect–Microbe Ecology
+- Sustainable Agriculture
+
+</div>
+
+:::
+
+::: {.team-card}
+
+![](images/team-placeholder.jpg){.team-photo}
+
+<div class="team-name">
+Ms. Avantika Jakati
+</div>
+
+<div class="team-role">
+Ph.D. Scholar
+</div>
+
+<div class="team-project">
+
+**Research Topic**
+
+Characterisation of Plastic-Degrading Bacteria and Their Antibiotic Resistance Profiles from Wastewater Treatment Sludge.
+
+---
+
+**Research Areas**
+
+- Environmental Microbiology
+- Plastic Biodegradation
+- Wastewater Microbiology
+- Antibiotic Resistance
+- Molecular Microbiology
+
+</div>
+
+:::
+
+:::
+
+---
+
+## Collaborator
+
+::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/team-placeholder.jpg){.team-photo}
+
+:::
+
+::: {.column width="75%"}
+
+### Dr. Suresh Gawande
+
+**Principal Scientist**  
+ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)
+
+**Role in the Laboratory**
+
+Co-Principal Investigator and research collaborator in plant–microbiome interactions and sustainable agriculture.
+
+**Research Expertise**
+
+- Onion & Garlic Research
+- Rhizosphere Microbiology
+- Plant-virus Interactions
+- Plant–Microbe Interactions
+- Sustainable Crop Production
+
+:::
+
+:::

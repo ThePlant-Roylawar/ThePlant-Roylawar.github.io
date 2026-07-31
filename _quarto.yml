@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Roy Plant–Microbiome Lab"
+
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: about.qmd
+        text: Principal Investigator
+
+      - text: Research
+        menu:
+          - text: Research Areas
+            href: research.qmd
+          - text: Projects
+            href: projects.qmd
+
+      - href: team.qmd
+        text: Team
+
+      - href: join.qmd
+        text: Join the Lab
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: news.qmd
+        text: News
+
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-after-body: footer.html

@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+# Current Projects
+
+Our laboratory is engaged in interdisciplinary research focusing on plant–microbiome interactions and sustainable agriculture.
+
+## Ongoing Research Projects
+
+### 🌱 Rhizosphere Microbiome of Wild *Allium* Species
+Characterization of microbial diversity and functional potential associated with wild *Allium* species using high-throughput sequencing and bioinformatics.
+
+### 🧬 Plant–Microbe Interactions
+Understanding beneficial interactions between plants and microorganisms to improve crop health and productivity.
+
+### 🦠 Synthetic Microbial Communities (SynComs)
+Development of microbial consortia for enhancing plant growth, nutrient uptake, and disease resistance.
+
+### 🌾 Sustainable Agriculture
+Exploring eco-friendly approaches for improving crop productivity through microbiome engineering.
+
+### 🧅 Biofertilizer–Microbiome Interactions
+Investigating the impact of biofertilizers on soil microbial communities and crop performance.

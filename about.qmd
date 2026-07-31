@@ -1,0 +1,165 @@
+---
+title: "Principal Investigator"
+---
+
+::: {.columns}
+
+::: {.column width="68%"}
+
+## Dr. Praveen B. Roylawar
+
+**Assistant Professor**
+
+Department of Botany
+
+S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)
+
+Sangamner, Maharashtra, India
+
+:::
+
+::: {.column width="32%"}
+
+![](images/praveen.jpg){.profile-photo fig-alt="Dr. Praveen B. Roylawar"}
+
+:::
+
+:::
+
+---
+
+# Biography
+
+Dr. Praveen B. Roylawar is an Assistant Professor in the Department of Botany at S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous), Sangamner. His research focuses on understanding plant–microbiome interactions and their applications in sustainable agriculture, plant health, and environmental resilience.
+
+His research integrates microbiology, plant pathology, molecular biology, metagenomics, transcriptomics, and bioinformatics to investigate beneficial plant-associated microorganisms and their role in improving crop productivity and stress tolerance.
+
+He actively collaborates with national and international research institutions and is committed to developing innovative microbiome-based solutions for sustainable crop production.
+
+His current research aims to translate microbiome science into sustainable agricultural practices through interdisciplinary research and international collaborations.
+
+---
+
+# Research Interests
+
+- Plant–Microbiome Interactions
+- Rhizosphere Microbiology
+- Microbial Ecology
+- Metagenomics
+- Plant Pathology
+- Biological Control of Plant Diseases
+- Synthetic Microbial Communities (SynComs)
+- Sustainable Agriculture
+- Wild *Allium* Biology
+- Plant Stress Biology
+
+---
+
+# Education
+
+| Degree | Institution |
+|---------|-------------|
+| **Ph.D. in Botany (2022)** | Savitribai Phule Pune University |
+| **M.Phil. in Botany (2016)** | Savitribai Phule Pune University |
+| **M.Sc. in Botany (2012)** | Fergusson College, Pune |
+| **B.Sc. in Botany (2010)** | Fergusson College, Pune |
+
+---
+
+# Research Collaborations
+
+- University of Helsinki, Finland
+- ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR), Pune
+- Savitribai Phule Pune University
+- Centurion University of Technology and Management, Odisha
+
+---
+
+# Current Research Projects
+
+## 🌱 Rhizosphere Microbiome of Wild *Allium* Species
+
+Understanding microbial diversity and functional potential associated with wild *Allium* species using high-throughput sequencing and bioinformatics.
+
+## 🧬 Plant–Microbe Interactions
+
+Exploring beneficial microbial interactions for improving crop productivity and environmental resilience.
+
+## 🦠 Synthetic Microbial Communities (SynComs)
+
+Development of microbial consortia for sustainable agriculture and enhanced plant health.
+
+## 🌾 Biofertilizer–Microbiome Interactions
+
+Evaluating the impact of microbial biofertilizers on soil microbiome composition, functionality, and crop performance.
+
+---
+
+# Teaching
+
+Current teaching areas include:
+
+- Plant Pathology
+- Cell Biology
+- Plant Diversity (Algae & Fungi)
+- Microbiology
+- Molecular Biology
+- Plant Biotechnology
+
+---
+
+# Research Supervision
+
+Currently supervising doctoral and postgraduate research in:
+
+- Plant–Microbiome Interactions
+- Plant Pathology
+- Rhizosphere Microbiology
+- Environmental Microbiology
+- Sustainable Agriculture
+- Biological Control of Plant Diseases
+
+---
+
+# Awards & Fellowships
+
+- CSIR – Junior Research Fellowship (JRF)
+- National Overseas Scholarship, Government of India
+- UGC Rajiv Gandhi National Fellowship (JRF)
+- Marie Curie Early Stage Researcher Fellowship, Germany
+
+---
+
+# Professional Profiles
+
+<div class="profile-buttons">
+
+<a class="profile-btn scholar" href="https://scholar.google.co.in/citations?user=_GHEV3UAAAAJ&hl=en" target="_blank">
+🎓 Google Scholar
+</a>
+
+<a class="profile-btn orcid" href="https://orcid.org/0000-0002-8511-9128" target="_blank">
+🆔 ORCID
+</a>
+
+<a class="profile-btn researchgate" href="https://www.researchgate.net/profile/Praveen-Roylawar" target="_blank">
+📚 ResearchGate
+</a>
+
+<a class="profile-btn linkedin" href="https://www.linkedin.com/in/praveenroylawarbotany/" target="_blank">
+💼 LinkedIn
+</a>
+
+</div>
+
+---
+
+# Contact
+
+**Email:** roylawar@sangamnercollege.edu.in
+
+**Department of Botany**
+
+S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)
+
+Sangamner, Maharashtra, India

@@ -1,0 +1,121 @@
+---
+title: "Research"
+---
+
+# Research
+
+The Roylawar Plant–Microbiome Research Laboratory investigates the interactions between plants and microorganisms to develop sustainable solutions for agriculture, crop protection, and environmental resilience. Our research integrates molecular biology, microbiology, plant pathology, metagenomics, bioinformatics, and microbial ecology.
+
+---
+
+# Research Themes
+
+## 🌱 Rhizosphere Microbiome
+
+We investigate the diversity, composition, and functional potential of rhizosphere microbial communities associated with cultivated and wild plant species. By integrating next-generation sequencing and bioinformatics, we aim to understand how beneficial microorganisms influence plant growth, nutrient acquisition, and stress tolerance.
+
+Current focus:
+
+- Wild *Allium* species
+- Microbial diversity analysis
+- Functional metagenomics
+- Soil microbial ecology
+
+---
+
+## 🧬 Plant–Microbe Interactions
+
+Understanding the complex interactions between plants and beneficial microorganisms forms the foundation of our research. We explore mechanisms through which microbes enhance plant health, suppress diseases, and improve productivity under diverse environmental conditions.
+
+Research areas include:
+
+- Beneficial bacteria
+- Beneficial fungi
+- Root colonization
+- Plant immune responses
+
+---
+
+## 🦠 Metagenomics and Bioinformatics
+
+High-throughput sequencing technologies allow us to characterize microbial communities without cultivation. We employ bioinformatics pipelines to investigate microbial diversity, taxonomic composition, functional genes, and ecological interactions.
+
+Current approaches:
+
+- 16S rRNA sequencing
+- ITS sequencing
+- Functional annotation
+- Microbial network analysis
+
+---
+
+## 🧪 Synthetic Microbial Communities (SynComs)
+
+One of our long-term objectives is the development of synthetic microbial communities capable of enhancing crop productivity and resilience. We identify beneficial microorganisms and combine them into microbial consortia for sustainable agricultural applications.
+
+Applications include:
+
+- Plant growth promotion
+- Disease suppression
+- Nutrient mobilization
+- Climate resilience
+
+---
+
+## 🌾 Sustainable Agriculture
+
+Our laboratory develops environmentally friendly strategies to reduce dependence on chemical fertilizers and pesticides by utilizing beneficial microorganisms and microbiome engineering.
+
+Major research directions:
+
+- Biofertilizers
+- Biocontrol agents
+- Soil health
+- Climate-smart agriculture
+
+---
+
+## 🧅 Allium Research
+
+A major research focus of our laboratory is the biology and improvement of onion and other *Allium* species. Our work integrates microbiome research, molecular biology, plant pathology, and stress physiology to improve crop performance and resilience.
+
+Current topics include:
+
+- Wild *Allium* diversity
+- Onion microbiome
+- Salinity tolerance
+- Disease resistance
+- Root-associated microorganisms
+
+---
+
+# Research Methodologies
+
+Our laboratory employs interdisciplinary approaches including:
+
+- Microbial Isolation and Characterization
+- Plant Pathology
+- Molecular Biology
+- DNA/RNA Extraction
+- PCR and qPCR
+- High-throughput Sequencing
+- Metagenomics
+- Bioinformatics
+- Statistical Analysis
+- Greenhouse Experiments
+- Field Validation
+
+---
+
+# Current Collaborating Institutions
+
+- University of Helsinki, Finland
+- ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)
+- Savitribai Phule Pune University
+- Centurion University of Technology and Management, Odisha
+
+---
+
+# Future Research Directions
+
+The laboratory aims to develop microbiome-based technologies for sustainable agriculture through multidisciplinary research involving microbial ecology, genomics, biotechnology, and precision agriculture. Future work will focus on translating laboratory discoveries into field-level applications that enhance crop productivity while conserving environmental resources.

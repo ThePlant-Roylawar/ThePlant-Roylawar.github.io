@@ -1,0 +1,47 @@
+---
+title: "Publications"
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+# Publications
+
+The Roylawar Plant–Microbiome Research Laboratory publishes research in plant–microbiome interactions, microbial ecology, sustainable agriculture, plant pathology, environmental microbiology, and biotechnology.
+
+---
+
+# Research Profiles
+
+### 📚 Google Scholar
+
+https://scholar.google.co.in/citations?user=_GHEV3UAAAAJ&hl=en
+
+### 🆔 ORCID
+
+https://orcid.org/0000-0002-8511-9128
+
+### 🌐 ResearchGate
+
+https://www.researchgate.net/profile/Praveen-Roylawar
+
+---
+
+# Publications
+
+::: {#refs}
+:::
+
+---
+
+# Research Areas
+
+- Plant–Microbiome Interactions
+- Rhizosphere Microbiology
+- Metagenomics
+- Plant Pathology
+- Sustainable Agriculture
+- Biological Control
+- Environmental Microbiology
+- Nanobiotechnology
+- Plant Stress Biology
