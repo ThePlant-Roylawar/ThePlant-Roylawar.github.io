@@ -1,47 +1,286 @@
 ---
 title: "Publications"
-bibliography: publications.bib
-nocite: |
-  @*
 ---
 
 # Publications
 
-The Roylawar Plant–Microbiome Research Laboratory publishes research in plant–microbiome interactions, microbial ecology, sustainable agriculture, plant pathology, environmental microbiology, and biotechnology.
+Our laboratory publishes research in plant–microbiome interactions, rhizosphere ecology, molecular plant pathology, microbial biotechnology, and sustainable agriculture through collaborations with researchers in India and abroad.
 
 ---
 
-# Research Profiles
+# Journal Articles
 
-### 📚 Google Scholar
+## 2026
 
-https://scholar.google.co.in/citations?user=_GHEV3UAAAAJ&hl=en
+::: {.publication-card}
 
-### 🆔 ORCID
+### Microbial allies in a cotton pest: A descriptive account of associated microbiota dynamics in Dysdercus cingulatus across development
 
-https://orcid.org/0000-0002-8511-9128
+**Authors**
+Rupawate Pravara,**Roylawar Praveen**, Borgave Seema   
+...
 
-### 🌐 ResearchGate
+**Journal**  
+*Comparative Biochemistry and Physiology Part D: Genomics and Proteomics* • Volume 60 • **2026**
 
-https://www.researchgate.net/profile/Praveen-Roylawar
+<div class="pub-buttons">
+<a href="https://doi.org/10.1016/j.cbd.2026.101902" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
 
----
-
-# Publications
-
-::: {#refs}
 :::
 
 ---
 
-# Research Areas
+## 2025
 
-- Plant–Microbiome Interactions
-- Rhizosphere Microbiology
-- Metagenomics
-- Plant Pathology
-- Sustainable Agriculture
-- Biological Control
-- Environmental Microbiology
-- Nanobiotechnology
-- Plant Stress Biology
+::: {.publication-card}
+
+### Assessment of salinity tolerance in onion (*Allium cepa* L.) genotypes at germination stage through morphological traits and multivariate analysis
+
+**Authors**  
+Shreya Kasar, **Praveen Roylawar**, Bliss Furtado, Kiran Khandagale, Satyabrata Nanda, Snehal Bhandari, Mahendra Khyade, Pranjali Gedam, Hem Raj Bhandari, Vijay Mahajan, et al.
+
+**Journal**  
+*Frontiers in Plant Science* • Volume 16 • **2025**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.3389/fpls.2025.1686434" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### Identification and analysis of the GATA gene family in onion (*Allium cepa* L.) in response to chromium and salt stress
+
+**Authors**  
+Chirasmita Bose, Pratyush Kumar Das, **Praveen Roylawar**, Pravara Rupawate, Kiran Khandagale, Satyabrata Nanda, Suresh Gawande
+
+**Journal**  
+*BMC Genomics* • Volume 26 • **2025**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1186/s12864-025-11327-2" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### Fourth-Generation Biofuels: Genetic Engineering for Sustainable Energy
+
+**Authors**  
+Sunil P. Bhagat, Balasaheb D. Wagh, Savita M. Satpute, Mahesh B. Gunjal, Shreya Kasar, **Praveen B. Roylawar**
+
+**Book Chapter**  
+*Recent Trends in Lignocellulosic Biofuels and Bioenergy* • Springer • **2025**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1007/978-981-96-4636-4_18" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2023
+
+::: {.publication-card}
+
+### Colonization of *Serendipita indica* promotes resistance against *Spodoptera exigua* in onion (*Allium cepa* L.)
+
+**Authors**  
+**Praveen Roylawar**, Kiran Khandagale, Satyabrata Nanda, Parakkattu Sulochanan, Sangita Jadhav, Vijay Mahajan, Suresh Gawande
+
+**Journal**  
+*Frontiers in Microbiology* • Volume 14 • **2023**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.3389/fmicb.2023.1190942" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### Role of gut symbionts of insect pests: A novel target for insect-pest control
+
+**Authors**  
+Pravara S. Rupawate, **Praveen Roylawar**, Kiran Khandagale, Suresh Gawande, Avinash B. Ade, Durgesh Kumar Jaiswal, Seema Borgave
+
+**Journal**  
+*Frontiers in Microbiology* • Volume 14 • **2023**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.3389/fmicb.2023.1146390" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2022
+
+::: {.publication-card}
+
+### Comparative transcriptome analysis of onion in response to infection by *Alternaria porri*
+
+**Authors**  
+Kiran Khandagale, **Praveen Roylawar**, Onkar Kulkarni, Pravin Khambalkar, Avinash Ade, Abhijeet Kulkarni, Major Singh, Suresh Gawande
+
+**Journal**  
+*Frontiers in Plant Science* • Volume 13 • **2022**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.3389/fpls.2022.857306" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### Isolation and expression profiling of insecticidal lectins from wild *Allium* against onion thrips (*Thrips tabaci*)
+
+**Authors**  
+Kiran Khandagale, **Praveen Roylawar**, Pragati Randive, Vadivelu Karuppaiah, Parakkattu S. Soumia, Dhananjay Shirsat, Pranjali Gedam, Avinash Ade, Suresh Gawande, Major Singh
+
+**Journal**  
+*Proceedings of the National Academy of Sciences, India Section B: Biological Sciences* • **2022**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1007/s40011-021-01323-5" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2021
+
+::: {.publication-card}
+
+### Piriformospora indica primes onion response against Stemphylium leaf blight disease
+
+**Authors**  
+**Praveen Roylawar**, Kiran Khandagale, Pragati Randive, Bharat Shinde, Chandrashekhar Murumkar, Avinash Ade, Major Singh, Suresh Gawande, Massimiliano Morelli
+
+**Journal**  
+*Pathogens* • Volume 10 • **2021**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.3390/pathogens10091085" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### First Report of Garlic Virus B Infecting Garlic in India
+
+**Authors**  
+**Praveen B. Roylawar**, Kiran S. Khandagale, Pragati M. Randive, G. E. Atre, Suresh J. Gawande
+
+**Journal**  
+*Plant Disease* • Volume 105 • **2021**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1094/PDIS-06-20-1326-PDN" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2020
+
+::: {.publication-card}
+
+### Omics approaches in *Allium* research: Progress and way ahead
+
+**Authors**  
+Kiran Khandagale, Ram Krishna, **Praveen Roylawar**, Avinash B. Ade, Ashwini Benke, Bharat Shinde, Major Singh, Suresh J. Gawande, Ashutosh Rai
+
+**Journal**  
+*PeerJ* • Volume 8 • **2020**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.7717/peerj.9824" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+::: {.publication-card}
+
+### Comparative transcriptome analyses in contrasting onion (*Allium cepa* L.) genotypes for drought stress
+
+**Authors**  
+Pranjali Ghodke, Kiran Khandagale, A. Thangasamy, Abhijeet Kulkarni, Nitin Narwade, Dhananjay Shirsat, Pragati Randive, **Praveen Roylawar**, Isha Singh, Suresh J. Gawande, et al.
+
+**Journal**  
+*PLOS ONE* • Volume 15 • **2020**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1371/journal.pone.0237457" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2019
+
+::: {.publication-card}
+
+### Microbiome profiling of the onion thrips, *Thrips tabaci* Lindeman (Thysanoptera: Thripidae)
+
+**Authors**  
+Suresh J. Gawande, Sivalingam Anandhan, Ashish Ingle, **Praveen Roylawar**, Kiran Khandagale, Tushar Gawai, Alana Jacobson, Ramasamy Asokan, Major Singh
+
+**Journal**  
+*PLOS ONE* • Volume 14 • **2019**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1371/journal.pone.0223281" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2017
+
+::: {.publication-card}
+
+### β-Amino butyric acid mediated changes in cellular redox homeostasis confers tomato resistance to early blight
+
+**Authors**  
+**Praveen Roylawar**, Avinash Kamble
+
+**Journal**  
+*Australasian Plant Pathology* • Volume 46 • **2017**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1007/s13313-017-0484-0" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
+---
+
+## 2015
+
+::: {.publication-card}
+
+### Comparative analysis of BABA and *Piriformospora indica* mediated priming of defence-related genes in tomato against early blight
+
+**Authors**  
+**Praveen Roylawar**, Sayantan Panda, Avinash Kamble
+
+**Journal**  
+*Physiological and Molecular Plant Pathology* • Volume 91 • **2015**
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1016/j.pmpp.2015.06.004" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::

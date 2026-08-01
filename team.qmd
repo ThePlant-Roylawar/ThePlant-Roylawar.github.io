@@ -74,7 +74,7 @@ Nanoparticle-based Management of Onion Fungal Diseases and Rhizosphere Microbiom
 
 ::: {.team-card}
 
-![](images/team-placeholder.jpg){.team-photo}
+![](images/dhananjay.jpeg){.team-photo}
 
 <div class="team-name">
 Mr. Dhananjay Shirsat
@@ -106,7 +106,7 @@ Exploring Rhizosphere Microflora for the Biological Control of Onion (*Allium ce
 
 ::: {.team-card}
 
-![](images/team-placeholder.jpg){.team-photo}
+![](images/avantika.jpeg){.team-photo}
 
 <div class="team-name">
 Ms. Avantika Jakati
@@ -146,7 +146,7 @@ Characterisation of Plastic-Degrading Bacteria and Their Antibiotic Resistance P
 
 ::: {.column width="25%"}
 
-![](images/team-placeholder.jpg){.team-photo}
+![](images/suresh.jpeg){.team-photo}
 
 :::
 

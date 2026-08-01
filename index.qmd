@@ -10,9 +10,6 @@ title: "Home"
 
 Welcome to the **Roylawar Plant–Microbiome Research Laboratory**, where we explore the fascinating interactions between plants and microorganisms to develop sustainable solutions for agriculture. Our research integrates microbiology, molecular biology, ecology, bioinformatics, and biotechnology to improve crop productivity and resilience.
 
-::: {.columns}
-
-::: {.column width="70%"}
 
 ## Research Focus
 
@@ -63,42 +60,6 @@ Designing SynComs for sustainable crop production and disease management.
 ### 🌾 Climate-Resilient Agriculture
 
 Developing microbiome-based strategies for sustainable and climate-resilient farming.
-
-:::
-
-:::
-
-:::
-
-::: {.column width="30%"}
-
-## 🧬 Laboratory at a Glance
-
-**Research Theme**
-
-Plant–Microbiome Interactions for Sustainable Agriculture
-
----
-
-**Research Strengths**
-
-- 🌱 Rhizosphere Microbiome
-- 🧬 Multi-omics Approaches
-- 🦠 Microbial Ecology
-- 🧪 Synthetic Microbial Communities
-
----
-
-**Laboratory Snapshot**
-
-- 👨‍🎓 **3** Ph.D. Scholars
-- 📄 **14+** Publications
-- 🌍 **4** Collaborating Institutions
-- 🔬 **2** Active Research Projects
-
----
-
-🤝 **Open to National & International Research Collaborations**
 
 :::
 

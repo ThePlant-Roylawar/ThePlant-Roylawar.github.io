@@ -28,6 +28,29 @@ Sangamner, Maharashtra, India
 
 ---
 
+# Professional Profiles
+
+<div class="profile-buttons">
+
+<a class="profile-btn scholar" href="https://scholar.google.co.in/citations?user=_GHEV3UAAAAJ&hl=en" target="_blank">
+🎓 Google Scholar
+</a>
+
+<a class="profile-btn orcid" href="https://orcid.org/0000-0002-8511-9128" target="_blank">
+🆔 ORCID
+</a>
+
+<a class="profile-btn researchgate" href="https://www.researchgate.net/profile/Praveen-Roylawar" target="_blank">
+📚 ResearchGate
+</a>
+
+<a class="profile-btn linkedin" href="https://www.linkedin.com/in/praveenroylawarbotany/" target="_blank">
+💼 LinkedIn
+</a>
+
+</div>
+
+---
 # Biography
 
 Dr. Praveen B. Roylawar is an Assistant Professor in the Department of Botany at S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous), Sangamner. His research focuses on understanding plant–microbiome interactions and their applications in sustainable agriculture, plant health, and environmental resilience.
@@ -66,35 +89,6 @@ His current research aims to translate microbiome science into sustainable agric
 
 ---
 
-# Research Collaborations
-
-- University of Helsinki, Finland
-- ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR), Pune
-- Savitribai Phule Pune University
-- Centurion University of Technology and Management, Odisha
-
----
-
-# Current Research Projects
-
-## 🌱 Rhizosphere Microbiome of Wild *Allium* Species
-
-Understanding microbial diversity and functional potential associated with wild *Allium* species using high-throughput sequencing and bioinformatics.
-
-## 🧬 Plant–Microbe Interactions
-
-Exploring beneficial microbial interactions for improving crop productivity and environmental resilience.
-
-## 🦠 Synthetic Microbial Communities (SynComs)
-
-Development of microbial consortia for sustainable agriculture and enhanced plant health.
-
-## 🌾 Biofertilizer–Microbiome Interactions
-
-Evaluating the impact of microbial biofertilizers on soil microbiome composition, functionality, and crop performance.
-
----
-
 # Teaching
 
 Current teaching areas include:
@@ -124,33 +118,9 @@ Currently supervising doctoral and postgraduate research in:
 # Awards & Fellowships
 
 - CSIR – Junior Research Fellowship (JRF)
-- National Overseas Scholarship, Government of India
+- National Overseas Scholarship (Provisional Selection), Government of India
 - UGC Rajiv Gandhi National Fellowship (JRF)
-- Marie Curie Early Stage Researcher Fellowship, Germany
-
----
-
-# Professional Profiles
-
-<div class="profile-buttons">
-
-<a class="profile-btn scholar" href="https://scholar.google.co.in/citations?user=_GHEV3UAAAAJ&hl=en" target="_blank">
-🎓 Google Scholar
-</a>
-
-<a class="profile-btn orcid" href="https://orcid.org/0000-0002-8511-9128" target="_blank">
-🆔 ORCID
-</a>
-
-<a class="profile-btn researchgate" href="https://www.researchgate.net/profile/Praveen-Roylawar" target="_blank">
-📚 ResearchGate
-</a>
-
-<a class="profile-btn linkedin" href="https://www.linkedin.com/in/praveenroylawarbotany/" target="_blank">
-💼 LinkedIn
-</a>
-
-</div>
+- Visiting Researcher (MC ESR Fellowship), Germany
 
 ---
 
@@ -159,7 +129,5 @@ Currently supervising doctoral and postgraduate research in:
 **Email:** roylawar@sangamnercollege.edu.in
 
 **Department of Botany**
-
-S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)
-
+S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous) Sangamner
 Sangamner, Maharashtra, India
