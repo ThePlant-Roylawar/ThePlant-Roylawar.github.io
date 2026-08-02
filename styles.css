@@ -550,45 +550,7 @@ img.profile-photo:hover {
     font-weight:600;
     color:#1B5E20;
 }
-/*==========================
-Publication Cards
-==========================*/
 
-.publication-card{
-    background:#ffffff;
-    border:1px solid #d9e6d9;
-    border-left:6px solid #2E7D32;
-    border-radius:12px;
-    padding:25px;
-    margin:30px 0;
-    box-shadow:0 3px 12px rgba(0,0,0,.08);
-}
-
-.publication-card h3{
-    margin-top:0;
-    color:#1b5e20;
-}
-
-.publication-card p{
-    margin:10px 0;
-}
-
-.publication-card strong{
-    color:#1b5e20;
-}
-
-.publication-card em{
-    color:#2E7D32;
-}
-
-.publication-card a{
-    text-decoration:none;
-    font-weight:600;
-}
-
-.publication-card:hover{
-    box-shadow:0 8px 20px rgba(0,0,0,.12);
-}
 /* ==========================================
    Typography
 ========================================== */
@@ -618,4 +580,65 @@ p {
     p {
         text-align: left;
     }
+}
+/* =====================================================
+   WEBSITE IMPROVEMENTS
+   (Added on 02-Aug-2026)
+===================================================== */
+
+/* Smooth scrolling */
+html{
+    scroll-behavior:smooth;
+}
+
+/* Better images */
+img{
+    max-width:100%;
+    height:auto;
+    border-radius:10px;
+}
+
+/* Better typography */
+body{
+    font-family:'Inter',sans-serif;
+    color:#333;
+    line-height:1.8;
+}
+
+/* Paragraphs */
+p{
+    text-align:justify;
+    text-justify:inter-word;
+    line-height:1.8;
+}
+
+/* Headings */
+h1,h2,h3,h4,h5,h6{
+    text-align:left;
+}
+
+/* Nice text selection */
+::selection{
+    background:#2E7D32;
+    color:#fff;
+}
+
+/* Better reading width */
+main{
+    max-width:1200px;
+    margin:auto;
+}
+
+/* Mobile */
+@media (max-width:768px){
+
+    p{
+        text-align:left;
+    }
+
+    img{
+        max-width:100%;
+        height:auto;
+    }
+
 }
