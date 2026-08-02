@@ -140,3 +140,43 @@ quarto render
 Deployment:
 
 GitHub Desktop → Commit → Push
+
+---
+
+# Homepage Development Status
+
+## Version 2.1 (02 August 2026)
+
+### ✅ Completed
+
+- Replaced the default homepage hero with a custom scientific banner.
+- Integrated original research figures including:
+  - Onion root system
+  - Pathogen response to nanoparticles
+  - Network analysis
+  - TEM nanoparticle characterization
+- Added an About the Lab section.
+- Added a Research Impact section.
+- Added a Featured Research section highlighting the laboratory's three flagship research themes:
+  - Wild Allium Rhizosphere Microbiome
+  - Nanotechnology for Plant Disease Management
+  - Plant–Microbiome Interactions
+- Removed the duplicate Research Highlights section.
+- Added Research Collaborations.
+- Improved homepage content flow and readability.
+- Improved mobile responsiveness.
+- Added justification for paragraph text throughout the website.
+
+---
+
+## Current Homepage Structure
+
+1. Hero Banner
+2. About the Lab
+3. Research Impact
+4. Featured Research
+5. Research Collaborations
+6. Footer
+
+Status:
+🟢 Stable
