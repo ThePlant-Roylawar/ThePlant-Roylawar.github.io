@@ -133,81 +133,95 @@
     "text": "orcid = '0000-0000-0000-0000' # Fill your orcid here\n\n\nimport requests\n\nWe use the /works api to list all works related to the orcid. This gives a summary of all works, so citation information is not included. We collect the put-code of all works to retrieve the citation information later.\n\nresponse = requests.get('https://pub.orcid.org/v3.0/{}/works'.format(orcid),\n                        headers={\"Accept\": \"application/orcid+json\" })\nrecord = response.json()\n\n\nput_codes = []\nfor work in record['group']:\n    put_code = work['work-summary'][0]['put-code']\n    put_codes.append(put_code)\nput_code = put_codes[0]\n\nWe use the /&lt;orcid&gt;/work/&lt;put-code&gt; endpoint to retrieve the citation information for each record.\n\ncitations = []\nfor put_code in put_codes:\n    response = requests.get('https://pub.orcid.org/v3.0/{}/work/{}'.format(orcid, put_code),\n                            headers={\"Accept\": \"application/orcid+json\" })\n    work = response.json()\n    if work['citation'] is not None:\n        citations.append(work['citation']['citation-value'])\n\n\nwith open('output.bib', 'w') as bibfile:\n    for citation in citations:\n        bibfile.write(citation)\n        bibfile.write('\\n')"
   },
   {
-    "objectID": "index.html#advancing-sustainable-agriculture-through-plantmicrobiome-research",
-    "href": "index.html#advancing-sustainable-agriculture-through-plantmicrobiome-research",
+    "objectID": "index_old.html#advancing-sustainable-agriculture-through-plantmicrobiome-research",
+    "href": "index_old.html#advancing-sustainable-agriculture-through-plantmicrobiome-research",
     "title": "Home",
     "section": "Advancing Sustainable Agriculture through Plant–Microbiome Research",
     "text": "Advancing Sustainable Agriculture through Plant–Microbiome Research\nWelcome to the Roylawar Plant–Microbiome Research Laboratory, where we explore the fascinating interactions between plants and microorganisms to develop sustainable solutions for agriculture. Our research integrates microbiology, molecular biology, ecology, bioinformatics, and biotechnology to improve crop productivity and resilience."
   },
   {
-    "objectID": "index.html#research-focus",
-    "href": "index.html#research-focus",
+    "objectID": "index_old.html#research-focus",
+    "href": "index_old.html#research-focus",
     "title": "Home",
     "section": "Research Focus",
     "text": "Research Focus\n\n\n🌱 Rhizosphere Microbiome\nUnderstanding the diversity and function of microbial communities associated with plant roots.\n\n\n🧬 Plant–Microbe Interactions\nInvestigating beneficial microbial interactions to improve crop productivity and resilience.\n\n\n🧅 Wild Allium Biology\nExploring wild Allium species as valuable genetic and microbiome resources.\n\n\n🦠 Metagenomics & Microbial Ecology\nApplying next-generation sequencing to characterize complex microbial communities.\n\n\n🧪 Synthetic Microbial Communities\nDesigning SynComs for sustainable crop production and disease management.\n\n\n🌾 Climate-Resilient Agriculture\nDeveloping microbiome-based strategies for sustainable and climate-resilient farming."
   },
   {
-    "objectID": "index.html#by-the-numbers",
-    "href": "index.html#by-the-numbers",
+    "objectID": "index_old.html#by-the-numbers",
+    "href": "index_old.html#by-the-numbers",
     "title": "Home",
     "section": "📊 By the Numbers",
     "text": "📊 By the Numbers\n\n\n\n👨‍🎓\n\n\n3\nResearch Scholars\n\n\n\n\n📄\n\n\n14+\nPublications\n\n\n\n\n🌍\n\n\n4\nCollaborating Institutions\n\n\n\n\n🔬\n\n\n2\nActive Projects"
   },
   {
-    "objectID": "index.html#section-1",
-    "href": "index.html#section-1",
+    "objectID": "index_old.html#section-1",
+    "href": "index_old.html#section-1",
     "title": "Home",
     "section": "3",
     "text": "3\nResearch Scholars"
   },
   {
-    "objectID": "index.html#section-3",
-    "href": "index.html#section-3",
+    "objectID": "index_old.html#section-3",
+    "href": "index_old.html#section-3",
     "title": "Home",
     "section": "14+",
     "text": "14+\nPublications"
   },
   {
-    "objectID": "index.html#section-5",
-    "href": "index.html#section-5",
+    "objectID": "index_old.html#section-5",
+    "href": "index_old.html#section-5",
     "title": "Home",
     "section": "4",
     "text": "4\nCollaborating Institutions"
   },
   {
-    "objectID": "index.html#section-7",
-    "href": "index.html#section-7",
+    "objectID": "index_old.html#section-7",
+    "href": "index_old.html#section-7",
     "title": "Home",
     "section": "2",
     "text": "2\nActive Projects"
   },
   {
-    "objectID": "index.html#research-collaborations",
-    "href": "index.html#research-collaborations",
+    "objectID": "index_old.html#research-collaborations",
+    "href": "index_old.html#research-collaborations",
     "title": "Home",
     "section": "🌍 Research Collaborations",
     "text": "🌍 Research Collaborations\n\n\n\n\nUniversity of Helsinki\nInternational Research Partner\nDepartment of Microbiology\nHelsinki, Finland\n\n\n\n\n\nICAR – Directorate of Onion and Garlic Research\nResearch & Training Partner\nRajgurunagar, Pune, Maharashtra, India\n\n\n\n\n\nSavitribai Phule Pune University\nAcademic Partner\nPune, Maharashtra, India\n\n\n\n\n\nCenturion University of Technology and Management\nResearch Collaborator\nOdisha, India"
   },
   {
-    "objectID": "index.html#current-research",
-    "href": "index.html#current-research",
+    "objectID": "index_old.html#current-research",
+    "href": "index_old.html#current-research",
     "title": "Home",
     "section": "🔬 Current Research",
     "text": "🔬 Current Research\n\nCharacterization of rhizosphere microbiomes of wild Allium species\nMicrobial ecology using next-generation sequencing\nSynthetic microbial community development (SynComs)\nBiofertilizer–microbiome interactions\nClimate-resilient agriculture\nBiological control of plant diseases using beneficial microbes"
   },
   {
-    "objectID": "index.html#latest-highlights",
-    "href": "index.html#latest-highlights",
+    "objectID": "index_old.html#latest-highlights",
+    "href": "index_old.html#latest-highlights",
     "title": "Home",
     "section": "📢 Latest Highlights",
     "text": "📢 Latest Highlights\n\nInternational collaborations in Finland and India\nMulti-omics research on plant microbiomes\nDevelopment of microbial consortia for sustainable agriculture\nStudent training in advanced molecular biology and bioinformatics\nInternational Ph.D. student exchange programmes\nOngoing collaborations with ICAR-DOGR and University of Helsinki"
   },
   {
-    "objectID": "index.html#explore-the-website",
-    "href": "index.html#explore-the-website",
+    "objectID": "index_old.html#explore-the-website",
+    "href": "index_old.html#explore-the-website",
     "title": "Home",
     "section": "🔗 Explore the Website",
     "text": "🔗 Explore the Website\n\n📖 Learn about our research programmes\n👨‍🔬 Meet our research team\n📚 Browse publications\n📢 Read laboratory news\n🌱 Explore opportunities to join the laboratory\n📬 Contact us for collaborations and research enquiries"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
+  },
+  {
+    "objectID": "contact.html#dr.-praveen-b.-roylawar",
+    "href": "contact.html#dr.-praveen-b.-roylawar",
+    "title": "Contact",
+    "section": "Dr. Praveen B. Roylawar",
+    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
   },
   {
     "objectID": "about.html",
@@ -224,18 +238,60 @@
     "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Roy Plant–Microbiome Lab",
     "section": "",
-    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
+    "text": "We investigate plant–microbe interactions, rhizosphere microbiomes, metagenomics, plant pathology, nanotechnology, and innovative biological strategies to improve crop productivity, resilience, and sustainable agriculture.\n\n 🔬 Explore Research \n 📚 Publications \n 👨‍🔬 Join the Lab"
   },
   {
-    "objectID": "contact.html#dr.-praveen-b.-roylawar",
-    "href": "contact.html#dr.-praveen-b.-roylawar",
-    "title": "Contact",
-    "section": "Dr. Praveen B. Roylawar",
-    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
+    "objectID": "index.html#about-the-lab",
+    "href": "index.html#about-the-lab",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "About the Lab",
+    "text": "About the Lab\nThe Roy Plant–Microbiome Lab is dedicated to understanding the complex interactions between plants and their associated microbial communities. Our interdisciplinary research combines microbiology, plant pathology, metagenomics, nanotechnology, molecular biology, and bioinformatics to develop innovative solutions for sustainable agriculture, crop health, and environmental resilience.\n\nLearn More About the Lab →"
+  },
+  {
+    "objectID": "index.html#research-impact",
+    "href": "index.html#research-impact",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "Research Impact",
+    "text": "Research Impact\nOur research contributes to sustainable agriculture through high-quality publications, funded projects, international collaborations, and the training of future scientists.\n\n\n\n📄\n\n\n14+\nPublications\n\n\n\n\n🎓\n\n\n3\nResearch Scholars\n\n\n\n\n🔬\n\n\n2\nActive Projects\n\n\n\n\n🌍\n\n\n4\nCollaborating Institutions"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "14+",
+    "text": "14+\nPublications"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "3",
+    "text": "3\nResearch Scholars"
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "2",
+    "text": "2\nActive Projects"
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "4",
+    "text": "4\nCollaborating Institutions"
+  },
+  {
+    "objectID": "index.html#featured-research",
+    "href": "index.html#featured-research",
+    "title": "Roy Plant–Microbiome Lab",
+    "section": "Featured Research",
+    "text": "Featured Research\nOur laboratory addresses fundamental and applied questions in plant biology by integrating microbiology, metagenomics, nanotechnology, and bioinformatics to develop sustainable agricultural solutions.\n\n\n🧅 Wild Allium Rhizosphere Microbiome\nUnderstanding how domestication shapes the rhizosphere microbiome of wild and cultivated Allium species.\nResearch Areas\n\nRhizosphere microbiome\nWild Allium\nMetagenomics\nSustainable agriculture\n\nLearn More →\n\n\n🧪 Nanotechnology for Plant Disease Management\nDeveloping environmentally friendly nanoparticle-based strategies for sustainable disease management.\nResearch Areas\n\nPlant pathology\nNanotechnology\nDisease management\nEnvironmental safety\n\nLearn More →\n\n\n🧬 Plant–Microbiome Interactions\nInvestigating beneficial microorganisms and translating microbiome science into sustainable crop production.\nResearch Areas\n\nPlant–microbe interactions\nBioinformatics\nMulti-omics\nMicrobial ecology\n\nLearn More →"
   },
   {
     "objectID": "join.html",

@@ -1,85 +1,68 @@
 ---
-title: "Home"
+title: ""
+toc: false
+page-layout: full
 ---
 
-![](images/hero-banner.png){fig-alt="Roylawar Plant-Microbiome Research Laboratory" width="100%"}
+<div class="hero-section">
 
-# Roylawar Plant–Microbiome Laboratory
+<div class="hero-content">
 
-## Advancing Sustainable Agriculture through Plant–Microbiome Research
+<div class="hero-text">
 
-Welcome to the **Roylawar Plant–Microbiome Research Laboratory**, where we explore the fascinating interactions between plants and microorganisms to develop sustainable solutions for agriculture. Our research integrates microbiology, molecular biology, ecology, bioinformatics, and biotechnology to improve crop productivity and resilience.
+# Roy Plant–Microbiome Lab
 
+### Advancing Sustainable Agriculture through Plant–Microbiome Research
 
-## Research Focus
+We investigate plant–microbe interactions, rhizosphere microbiomes, metagenomics, plant pathology, nanotechnology, and innovative biological strategies to improve crop productivity, resilience, and sustainable agriculture.
 
-::: {.research-grid}
+<div class="hero-buttons">
 
-::: {.research-card}
+<a href="research.html" class="hero-btn primary">
+🔬 Explore Research
+</a>
 
-### 🌱 Rhizosphere Microbiome
+<a href="publications.html" class="hero-btn secondary">
+📚 Publications
+</a>
 
-Understanding the diversity and function of microbial communities associated with plant roots.
+<a href="join.html" class="hero-btn primary">
+👨‍🔬 Join the Lab
+</a>
 
-:::
+</div>
 
-::: {.research-card}
+</div>
 
-### 🧬 Plant–Microbe Interactions
+<div class="hero-image">
 
-Investigating beneficial microbial interactions to improve crop productivity and resilience.
+![](images/hero-banner.png)
 
-:::
+</div>
 
-::: {.research-card}
+</div>
 
-### 🧅 Wild *Allium* Biology
-
-Exploring wild *Allium* species as valuable genetic and microbiome resources.
-
-:::
-
-::: {.research-card}
-
-### 🦠 Metagenomics & Microbial Ecology
-
-Applying next-generation sequencing to characterize complex microbial communities.
-
-:::
-
-::: {.research-card}
-
-### 🧪 Synthetic Microbial Communities
-
-Designing SynComs for sustainable crop production and disease management.
-
-:::
-
-::: {.research-card}
-
-### 🌾 Climate-Resilient Agriculture
-
-Developing microbiome-based strategies for sustainable and climate-resilient farming.
-
-:::
-
-:::
+</div>
 
 ---
 
-## 📊 By the Numbers
+## About the Lab
+
+The **Roy Plant–Microbiome Lab** is dedicated to understanding the complex interactions between plants and their associated microbial communities. Our interdisciplinary research combines microbiology, plant pathology, metagenomics, nanotechnology, molecular biology, and bioinformatics to develop innovative solutions for sustainable agriculture, crop health, and environmental resilience.
+
+<div style="margin-top:20px;">
+
+[**Learn More About the Lab →**](about.html)
+
+</div>
+
+---
+
+## Research Impact
+
+Our research contributes to sustainable agriculture through high-quality publications, funded projects, international collaborations, and the training of future scientists.
 
 ::: {.stats-grid}
-
-::: {.stat-card}
-
-### 👨‍🎓
-
-## 3
-
-Research Scholars
-
-:::
 
 ::: {.stat-card}
 
@@ -93,11 +76,11 @@ Publications
 
 ::: {.stat-card}
 
-### 🌍
+### 🎓
 
-## 4
+## 3
 
-Collaborating Institutions
+Research Scholars
 
 :::
 
@@ -111,61 +94,13 @@ Active Projects
 
 :::
 
-:::
+::: {.stat-card}
 
----
+### 🌍
 
-## 🌍 Research Collaborations
+## 4
 
-::: {.collab-grid}
-
-::: {.collab-card}
-
-![](images/logos/helsinki.png){height=80px}
-
-### University of Helsinki
-
-**International Research Partner**
-
-Department of Microbiology
-
-Helsinki, Finland
-
-:::
-
-::: {.collab-card}
-
-![](images/logos/dogr.png){height=80px}
-
-### ICAR – Directorate of Onion and Garlic Research
-
-**Research & Training Partner**
-
-Rajgurunagar, Pune, Maharashtra, India
-
-:::
-
-::: {.collab-card}
-
-![](images/logos/sppu.png){height=80px}
-
-### Savitribai Phule Pune University
-
-**Academic Partner**
-
-Pune, Maharashtra, India
-
-:::
-
-::: {.collab-card}
-
-![](images/logos/centurion.png){height=80px}
-
-### Centurion University of Technology and Management
-
-**Research Collaborator**
-
-Odisha, India
+Collaborating Institutions
 
 :::
 
@@ -173,33 +108,63 @@ Odisha, India
 
 ---
 
-## 🔬 Current Research
+## Featured Research
 
-- Characterization of rhizosphere microbiomes of wild *Allium* species
-- Microbial ecology using next-generation sequencing
-- Synthetic microbial community development (SynComs)
-- Biofertilizer–microbiome interactions
-- Climate-resilient agriculture
-- Biological control of plant diseases using beneficial microbes
+Our laboratory addresses fundamental and applied questions in plant biology by integrating microbiology, metagenomics, nanotechnology, and bioinformatics to develop sustainable agricultural solutions.
+
+::: {.research-grid}
+
+::: {.research-card}
+
+### 🧅 Wild *Allium* Rhizosphere Microbiome
+
+Understanding how domestication shapes the rhizosphere microbiome of wild and cultivated *Allium* species.
+
+**Research Areas**
+
+- Rhizosphere microbiome
+- Wild *Allium*
+- Metagenomics
+- Sustainable agriculture
+
+[Learn More →](research.html)
+
+:::
+
+::: {.research-card}
+
+### 🧪 Nanotechnology for Plant Disease Management
+
+Developing environmentally friendly nanoparticle-based strategies for sustainable disease management.
+
+**Research Areas**
+
+- Plant pathology
+- Nanotechnology
+- Disease management
+- Environmental safety
+
+[Learn More →](research.html)
+
+:::
+
+::: {.research-card}
+
+### 🧬 Plant–Microbiome Interactions
+
+Investigating beneficial microorganisms and translating microbiome science into sustainable crop production.
+
+**Research Areas**
+
+- Plant–microbe interactions
+- Bioinformatics
+- Multi-omics
+- Microbial ecology
+
+[Learn More →](research.html)
+
+:::
+
+:::
 
 ---
-
-## 📢 Latest Highlights
-
-- International collaborations in Finland and India
-- Multi-omics research on plant microbiomes
-- Development of microbial consortia for sustainable agriculture
-- Student training in advanced molecular biology and bioinformatics
-- International Ph.D. student exchange programmes
-- Ongoing collaborations with ICAR-DOGR and University of Helsinki
-
----
-
-## 🔗 Explore the Website
-
-- 📖 Learn about our research programmes
-- 👨‍🔬 Meet our research team
-- 📚 Browse publications
-- 📢 Read laboratory news
-- 🌱 Explore opportunities to join the laboratory
-- 📬 Contact us for collaborations and research enquiries

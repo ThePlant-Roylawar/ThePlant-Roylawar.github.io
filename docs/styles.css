@@ -231,6 +231,7 @@ img.profile-photo:hover {
     text-align: center;
     box-shadow: 0 8px 20px rgba(0,0,0,0.12);
     transition: all 0.3s ease;
+    border-top:5px solid #81C784;
 }
 
 .stat-card:hover {
@@ -238,10 +239,11 @@ img.profile-photo:hover {
     box-shadow: 0 12px 28px rgba(0,0,0,0.18);
 }
 
-.stat-card h2 {
-    color: white;
-    font-size: 42px;
-    margin: 10px 0;
+.stat-card h2{
+    color:white;
+    font-size:46px;
+    margin:8px 0;
+    font-weight:700;
 }
 
 .stat-card p {
@@ -642,3 +644,6 @@ main{
     }
 
 }
+/* ==========================================
+   HOMEPAGE HERO
+========================================== */

@@ -43,7 +43,7 @@ Department of Botany
 
 ::: {.team-card}
 
-![](images/team-placeholder.jpg){.team-photo}
+![](images/shreya.jpeg){.team-photo}
 
 <div class="team-name">
 Ms. Shreya Kasar
