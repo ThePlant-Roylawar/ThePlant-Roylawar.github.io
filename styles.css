@@ -589,3 +589,33 @@ Publication Cards
 .publication-card:hover{
     box-shadow:0 8px 20px rgba(0,0,0,.12);
 }
+/* ==========================================
+   Typography
+========================================== */
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.8;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: left;
+}
+/* Desktop */
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.8;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    p {
+        text-align: left;
+    }
+}

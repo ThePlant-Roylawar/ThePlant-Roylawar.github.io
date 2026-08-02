@@ -52,7 +52,7 @@ Sangamner, Maharashtra, India
 
 ---
 
-# Biography
+### Biography
 
 Dr. Praveen B. Roylawar is an Assistant Professor in the Department of Botany at S.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous), Sangamner. His research focuses on understanding plant–microbiome interactions and their applications in sustainable agriculture, plant health, and environmental resilience.
 
