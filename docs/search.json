@@ -35,6 +35,34 @@
     "text": "⬜ Animations\n⬜ Dark Mode\n⬜ Annual Reports\n⬜ Downloads\n⬜ Lab Gallery"
   },
   {
+    "objectID": "WEBSITE_ROADMAP.html#sprint-3",
+    "href": "WEBSITE_ROADMAP.html#sprint-3",
+    "title": "Roy Plant–Microbiome Lab Website Roadmap",
+    "section": "Sprint 3",
+    "text": "Sprint 3\n\nLatest Publications section\nHomepage News section\nJoin the Lab call-to-action\nProfessional footer redesign"
+  },
+  {
+    "objectID": "WEBSITE_ROADMAP.html#sprint-4",
+    "href": "WEBSITE_ROADMAP.html#sprint-4",
+    "title": "Roy Plant–Microbiome Lab Website Roadmap",
+    "section": "Sprint 4",
+    "text": "Sprint 4\n\nAnimated research statistics\nFeatured Research with scientific images\nImprove homepage typography\nImprove spacing between sections\nImprove mobile layout"
+  },
+  {
+    "objectID": "WEBSITE_ROADMAP.html#sprint-5",
+    "href": "WEBSITE_ROADMAP.html#sprint-5",
+    "title": "Roy Plant–Microbiome Lab Website Roadmap",
+    "section": "Sprint 5",
+    "text": "Sprint 5\n\nInteractive collaboration map\nLaboratory gallery\nConference and invited talks\nResearch facilities page\nAlumni page"
+  },
+  {
+    "objectID": "WEBSITE_ROADMAP.html#final-website-review",
+    "href": "WEBSITE_ROADMAP.html#final-website-review",
+    "title": "Roy Plant–Microbiome Lab Website Roadmap",
+    "section": "Final Website Review",
+    "text": "Final Website Review\n\nAccessibility check\nSEO optimisation\nPerformance optimisation\nFinal proofreading\nGitHub Pages deployment review"
+  },
+  {
     "objectID": "talkmap_out.html",
     "href": "talkmap_out.html",
     "title": "Leaflet cluster map of talk locations",
@@ -210,18 +238,32 @@
     "text": "🔗 Explore the Website\n\n📖 Learn about our research programmes\n👨‍🔬 Meet our research team\n📚 Browse publications\n📢 Read laboratory news\n🌱 Explore opportunities to join the laboratory\n📬 Contact us for collaborations and research enquiries"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "DEVELOPMENT_LOG.html",
+    "href": "DEVELOPMENT_LOG.html",
+    "title": "Roy Plant–Microbiome Laboratory Website",
     "section": "",
-    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
+    "text": "This document records important design decisions, development milestones, and architectural choices made during the website development. It complements PROJECT_STATUS.md (completed work) and WEBSITE_ROADMAP.md (planned work)."
   },
   {
-    "objectID": "contact.html#dr.-praveen-b.-roylawar",
-    "href": "contact.html#dr.-praveen-b.-roylawar",
-    "title": "Contact",
-    "section": "Dr. Praveen B. Roylawar",
-    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
+    "objectID": "DEVELOPMENT_LOG.html#development-log",
+    "href": "DEVELOPMENT_LOG.html#development-log",
+    "title": "Roy Plant–Microbiome Laboratory Website",
+    "section": "",
+    "text": "This document records important design decisions, development milestones, and architectural choices made during the website development. It complements PROJECT_STATUS.md (completed work) and WEBSITE_ROADMAP.md (planned work)."
+  },
+  {
+    "objectID": "DEVELOPMENT_LOG.html#homepage-redesign",
+    "href": "DEVELOPMENT_LOG.html#homepage-redesign",
+    "title": "Roy Plant–Microbiome Laboratory Website",
+    "section": "Homepage Redesign",
+    "text": "Homepage Redesign\n\nHero Section\nDecision: - Replaced the standard Quarto hero with a custom scientific banner designed specifically for the Roy Plant–Microbiome Laboratory.\nReason: - To immediately communicate the laboratory’s research identity through original scientific visuals.\nIntegrated figures: - Onion root system - Pathogen response to nanoparticles - Microbial network analysis - TEM nanoparticle characterization\n\n\n\nHomepage Structure\nFinal structure:\n\nHero\nAbout the Lab\nResearch Impact\nFeatured Research\nResearch Collaborations\nFooter\n\nReason: - Creates a logical narrative: - Who we are - What we study - Our research impact - Our collaborators\n\n\n\nFeatured Research\nDecision: - Replaced the generic “Research Highlights” section with a more meaningful “Featured Research” section.\nReason: - Better reflects the laboratory’s flagship research areas rather than listing general topics.\nCurrent flagship research:\n\nWild Allium Rhizosphere Microbiome\nNanotechnology for Plant Disease Management\nPlant–Microbiome Interactions\n\n\n\n\nDesign Philosophy\nThe website should:\n\nlook like an international research laboratory website\nuse original scientific figures whenever possible\nmaintain a consistent green identity\nremain lightweight and fast\nbe fully responsive\nprioritize readability over visual clutter"
+  },
+  {
+    "objectID": "DEVELOPMENT_LOG.html#next-sprint",
+    "href": "DEVELOPMENT_LOG.html#next-sprint",
+    "title": "Roy Plant–Microbiome Laboratory Website",
+    "section": "Next Sprint",
+    "text": "Next Sprint\n\nLatest Publications\nHomepage News\nJoin the Lab call-to-action\nModern footer redesign"
   },
   {
     "objectID": "about.html",
@@ -236,6 +278,20 @@
     "title": "Principal Investigator",
     "section": "",
     "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
+  },
+  {
+    "objectID": "contact.html#dr.-praveen-b.-roylawar",
+    "href": "contact.html#dr.-praveen-b.-roylawar",
+    "title": "Contact",
+    "section": "Dr. Praveen B. Roylawar",
+    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
   },
   {
     "objectID": "index.html",
@@ -420,6 +476,20 @@
     "text": "Phase IV\n\nLab gallery\nAnimations\nDark mode\nPublication metrics\nInteractive research cards"
   },
   {
+    "objectID": "PROJECT_STATUS.html#version-2.1-02-august-2026",
+    "href": "PROJECT_STATUS.html#version-2.1-02-august-2026",
+    "title": "Roy Plant–Microbiome Lab Website",
+    "section": "Version 2.1 (02 August 2026)",
+    "text": "Version 2.1 (02 August 2026)\n\n✅ Completed\n\nReplaced the default homepage hero with a custom scientific banner.\nIntegrated original research figures including:\n\nOnion root system\nPathogen response to nanoparticles\nNetwork analysis\nTEM nanoparticle characterization\n\nAdded an About the Lab section.\nAdded a Research Impact section.\nAdded a Featured Research section highlighting the laboratory’s three flagship research themes:\n\nWild Allium Rhizosphere Microbiome\nNanotechnology for Plant Disease Management\nPlant–Microbiome Interactions\n\nRemoved the duplicate Research Highlights section.\nAdded Research Collaborations.\nImproved homepage content flow and readability.\nImproved mobile responsiveness.\nAdded justification for paragraph text throughout the website."
+  },
+  {
+    "objectID": "PROJECT_STATUS.html#current-homepage-structure",
+    "href": "PROJECT_STATUS.html#current-homepage-structure",
+    "title": "Roy Plant–Microbiome Lab Website",
+    "section": "Current Homepage Structure",
+    "text": "Current Homepage Structure\n\nHero Banner\nAbout the Lab\nResearch Impact\nFeatured Research\nResearch Collaborations\nFooter\n\nStatus: 🟢 Stable"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -495,47 +565,5 @@
     "title": "Our Team",
     "section": "Collaborator",
     "text": "Collaborator\n\n\n\n\n\nDr. Suresh Gawande\nPrincipal Scientist\nICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)\nRole in the Laboratory\nCo-Principal Investigator and research collaborator in plant–microbiome interactions and sustainable agriculture.\nResearch Expertise\n\nOnion & Garlic Research\nRhizosphere Microbiology\nPlant-virus Interactions\nPlant–Microbe Interactions\nSustainable Crop Production"
-  },
-  {
-    "objectID": "PROJECT_STATUS.html#version-2.1-02-august-2026",
-    "href": "PROJECT_STATUS.html#version-2.1-02-august-2026",
-    "title": "Roy Plant–Microbiome Lab Website",
-    "section": "Version 2.1 (02 August 2026)",
-    "text": "Version 2.1 (02 August 2026)\n\n✅ Completed\n\nReplaced the default homepage hero with a custom scientific banner.\nIntegrated original research figures including:\n\nOnion root system\nPathogen response to nanoparticles\nNetwork analysis\nTEM nanoparticle characterization\n\nAdded an About the Lab section.\nAdded a Research Impact section.\nAdded a Featured Research section highlighting the laboratory’s three flagship research themes:\n\nWild Allium Rhizosphere Microbiome\nNanotechnology for Plant Disease Management\nPlant–Microbiome Interactions\n\nRemoved the duplicate Research Highlights section.\nAdded Research Collaborations.\nImproved homepage content flow and readability.\nImproved mobile responsiveness.\nAdded justification for paragraph text throughout the website."
-  },
-  {
-    "objectID": "PROJECT_STATUS.html#current-homepage-structure",
-    "href": "PROJECT_STATUS.html#current-homepage-structure",
-    "title": "Roy Plant–Microbiome Lab Website",
-    "section": "Current Homepage Structure",
-    "text": "Current Homepage Structure\n\nHero Banner\nAbout the Lab\nResearch Impact\nFeatured Research\nResearch Collaborations\nFooter\n\nStatus: 🟢 Stable"
-  },
-  {
-    "objectID": "WEBSITE_ROADMAP.html#sprint-3",
-    "href": "WEBSITE_ROADMAP.html#sprint-3",
-    "title": "Roy Plant–Microbiome Lab Website Roadmap",
-    "section": "Sprint 3",
-    "text": "Sprint 3\n\nLatest Publications section\nHomepage News section\nJoin the Lab call-to-action\nProfessional footer redesign"
-  },
-  {
-    "objectID": "WEBSITE_ROADMAP.html#sprint-4",
-    "href": "WEBSITE_ROADMAP.html#sprint-4",
-    "title": "Roy Plant–Microbiome Lab Website Roadmap",
-    "section": "Sprint 4",
-    "text": "Sprint 4\n\nAnimated research statistics\nFeatured Research with scientific images\nImprove homepage typography\nImprove spacing between sections\nImprove mobile layout"
-  },
-  {
-    "objectID": "WEBSITE_ROADMAP.html#sprint-5",
-    "href": "WEBSITE_ROADMAP.html#sprint-5",
-    "title": "Roy Plant–Microbiome Lab Website Roadmap",
-    "section": "Sprint 5",
-    "text": "Sprint 5\n\nInteractive collaboration map\nLaboratory gallery\nConference and invited talks\nResearch facilities page\nAlumni page"
-  },
-  {
-    "objectID": "WEBSITE_ROADMAP.html#final-website-review",
-    "href": "WEBSITE_ROADMAP.html#final-website-review",
-    "title": "Roy Plant–Microbiome Lab Website Roadmap",
-    "section": "Final Website Review",
-    "text": "Final Website Review\n\nAccessibility check\nSEO optimisation\nPerformance optimisation\nFinal proofreading\nGitHub Pages deployment review"
   }
 ]
