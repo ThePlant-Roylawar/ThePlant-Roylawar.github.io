@@ -168,3 +168,61 @@ Investigating beneficial microorganisms and translating microbiome science into 
 :::
 
 ---
+
+## 🌍 Research Collaborations
+
+::: {.collab-grid}
+
+::: {.collab-card}
+
+![](images/logos/helsinki.png){height=80px}
+
+### University of Helsinki
+
+**International Research Partner**
+
+Department of Microbiology
+
+Helsinki, Finland
+
+:::
+
+::: {.collab-card}
+
+![](images/logos/dogr.png){height=80px}
+
+### ICAR – Directorate of Onion and Garlic Research
+
+**Research & Training Partner**
+
+Rajgurunagar, Pune, Maharashtra, India
+
+:::
+
+::: {.collab-card}
+
+![](images/logos/sppu.png){height=80px}
+
+### Savitribai Phule Pune University
+
+**Academic Partner**
+
+Pune, Maharashtra, India
+
+:::
+
+::: {.collab-card}
+
+![](images/logos/centurion.png){height=80px}
+
+### Centurion University of Technology and Management
+
+**Research Collaborator**
+
+Odisha, India
+
+:::
+
+:::
+
+---
