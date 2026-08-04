@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>News – Roy Plant–Microbiome Lab</title>
+<title>contributing – Roy Plant–Microbiome Lab</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -25,6 +25,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -140,7 +175,7 @@ gtag('config', 'G-M5GVLBL64G', { 'anonymize_ip': true});
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page"> 
+    <a class="nav-link" href="./news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -163,126 +198,204 @@ gtag('config', 'G-M5GVLBL64G', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#laboratory-news" id="toc-laboratory-news" class="nav-link active" data-scroll-target="#laboratory-news">Laboratory News</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2026</a>
+  <li><a href="#contributing-guide" id="toc-contributing-guide" class="nav-link active" data-scroll-target="#contributing-guide">Contributing Guide</a></li>
+  <li><a href="#website-technology" id="toc-website-technology" class="nav-link" data-scroll-target="#website-technology">Website Technology</a></li>
+  <li><a href="#project-structure" id="toc-project-structure" class="nav-link" data-scroll-target="#project-structure">Project Structure</a></li>
+  <li><a href="#development-workflow" id="toc-development-workflow" class="nav-link" data-scroll-target="#development-workflow">Development Workflow</a>
   <ul class="collapse">
-  <li><a href="#publication-alert" id="toc-publication-alert" class="nav-link" data-scroll-target="#publication-alert">📄 Publication Alert</a></li>
-  <li><a href="#successful-completion-of-ph.d.-research-visit" id="toc-successful-completion-of-ph.d.-research-visit" class="nav-link" data-scroll-target="#successful-completion-of-ph.d.-research-visit">🇫🇮 Successful Completion of Ph.D.&nbsp;Research Visit</a></li>
-  <li><a href="#ph.d.-scholar-upgraded-to-senior-research-fellow" id="toc-ph.d.-scholar-upgraded-to-senior-research-fellow" class="nav-link" data-scroll-target="#ph.d.-scholar-upgraded-to-senior-research-fellow">🏆 Ph.D.&nbsp;Scholar Upgraded to Senior Research Fellow</a></li>
-  <li><a href="#eight-students-join-icar-dogr-internship-programme" id="toc-eight-students-join-icar-dogr-internship-programme" class="nav-link" data-scroll-target="#eight-students-join-icar-dogr-internship-programme">🌱 Eight Students Join ICAR-DOGR Internship Programme</a></li>
-  <li><a href="#ngsf-fellowship-award" id="toc-ngsf-fellowship-award" class="nav-link" data-scroll-target="#ngsf-fellowship-award">🎉 NGSF Fellowship Award</a></li>
+  <li><a href="#edit-files" id="toc-edit-files" class="nav-link" data-scroll-target="#edit-files">1. Edit files</a></li>
+  <li><a href="#render-the-website" id="toc-render-the-website" class="nav-link" data-scroll-target="#render-the-website">2. Render the website</a></li>
+  <li><a href="#review" id="toc-review" class="nav-link" data-scroll-target="#review">3. Review</a></li>
+  <li><a href="#git-status" id="toc-git-status" class="nav-link" data-scroll-target="#git-status">4. Git Status</a></li>
+  <li><a href="#stage-changes" id="toc-stage-changes" class="nav-link" data-scroll-target="#stage-changes">5. Stage Changes</a></li>
+  <li><a href="#commit" id="toc-commit" class="nav-link" data-scroll-target="#commit">6. Commit</a></li>
+  <li><a href="#push" id="toc-push" class="nav-link" data-scroll-target="#push">7. Push</a></li>
   </ul></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2025</a>
-  <ul class="collapse">
-  <li><a href="#prestigious-edufi-fellowship-international-research-achievement" id="toc-prestigious-edufi-fellowship-international-research-achievement" class="nav-link" data-scroll-target="#prestigious-edufi-fellowship-international-research-achievement">🎓 Prestigious EDUFI Fellowship &amp; International Research Achievement</a></li>
-  </ul></li>
-  <li><a href="#stay-connected" id="toc-stay-connected" class="nav-link" data-scroll-target="#stay-connected">Stay Connected</a></li>
+  <li><a href="#website-design-principles" id="toc-website-design-principles" class="nav-link" data-scroll-target="#website-design-principles">Website Design Principles</a></li>
+  <li><a href="#editing-rules" id="toc-editing-rules" class="nav-link" data-scroll-target="#editing-rules">Editing Rules</a></li>
+  <li><a href="#homepage-structure" id="toc-homepage-structure" class="nav-link" data-scroll-target="#homepage-structure">Homepage Structure</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a></li>
+  <li><a href="#branch-strategy" id="toc-branch-strategy" class="nav-link" data-scroll-target="#branch-strategy">Branch Strategy</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">News</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="laboratory-news" class="level1">
-<h1>Laboratory News</h1>
-<p>Welcome to the latest news from the <strong>Roylawar Plant–Microbiome Research Laboratory</strong>. Here we share research achievements, student accomplishments, publications, collaborations, internships, and other important laboratory milestones.</p>
+<section id="contributing-guide" class="level1">
+<h1>Contributing Guide</h1>
+<p>Thank you for contributing to the <strong>Roy Plant–Microbiome Laboratory</strong> website.</p>
+<p>This document describes the workflow for updating and maintaining the website.</p>
 <hr>
 </section>
-<section id="section" class="level1">
-<h1>2026</h1>
-<section id="publication-alert" class="level2">
-<h2 class="anchored" data-anchor-id="publication-alert">📄 Publication Alert</h2>
-<p>We are delighted to share our recent publication:</p>
-<p><strong>“Microbial allies in a cotton pest: A descriptive account of associated microbiota dynamics in <em>Dysdercus cingulatus</em> across development”</strong></p>
-<p>published in <strong>Comparative Biochemistry and Physiology Part D: Genomics and Proteomics</strong>.</p>
-<p>The study began with a scientific question aimed at understanding the microbial communities associated with the cotton pest <em>Dysdercus cingulatus</em>. Through experimental design, sequencing, microbiome analysis, data interpretation, and manuscript preparation, the project evolved into a valuable scientific contribution.</p>
-<p>Congratulations to <strong>Ms.&nbsp;Pravara Rupawate</strong> for her dedication, scientific curiosity, and perseverance throughout the project.</p>
-<p>Special congratulations to <strong>Dr.&nbsp;Seema Borgave</strong> for her continuous guidance, mentorship, and unwavering support in transforming this research idea into a published scientific contribution.</p>
-<hr>
-</section>
-<section id="successful-completion-of-ph.d.-research-visit" class="level2">
-<h2 class="anchored" data-anchor-id="successful-completion-of-ph.d.-research-visit">🇫🇮 Successful Completion of Ph.D.&nbsp;Research Visit</h2>
-<p>Ms.&nbsp;<strong>Shreya Kasar</strong> successfully completed her six-month Ph.D.&nbsp;research visit to the <strong>Department of Microbiology, University of Helsinki, Finland</strong>.</p>
-<p>During her visit, she received advanced training in:</p>
+<section id="website-technology" class="level1">
+<h1>Website Technology</h1>
+<p>This website is built using:</p>
 <ul>
-<li>Metagenomic data analysis</li>
-<li>Functional microbiome analysis</li>
-<li>Bioinformatics</li>
+<li>Quarto</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Git</li>
+<li>GitHub Pages</li>
 </ul>
-<p>The visit resulted in:</p>
+<p>Source files are written in <code>.qmd</code> format and rendered into the <code>docs/</code> directory.</p>
+<hr>
+</section>
+<section id="project-structure" class="level1">
+<h1>Project Structure</h1>
+<pre><code>ThePlant-Roylawar.github.io
+
+│
+├── index.qmd
+├── about.qmd
+├── research.qmd
+├── projects.qmd
+├── team.qmd
+├── publications.qmd
+├── news.qmd
+├── join.qmd
+├── contact.qmd
+│
+├── styles.css
+├── footer.html
+├── images/
+├── docs/
+│
+├── CHANGELOG.md
+├── PROJECT_STATUS.md
+├── WEBSITE_ROADMAP.md
+├── DEVELOPMENT_LOG.md
+└── CONTRIBUTING.md</code></pre>
+<hr>
+</section>
+<section id="development-workflow" class="level1">
+<h1>Development Workflow</h1>
+<p>Every change should follow the same workflow.</p>
+<section id="edit-files" class="level3">
+<h3 class="anchored" data-anchor-id="edit-files">1. Edit files</h3>
+<p>Modify only the required files.</p>
+<p>Example:</p>
 <ul>
-<li>Advanced expertise in microbiome bioinformatics</li>
-<li>Strengthened international research collaborations</li>
-<li>Significant progress toward her doctoral research</li>
-<li>Long-term collaborative opportunities between the collaborating institutions</li>
+<li>index.qmd</li>
+<li>research.qmd</li>
+<li>styles.css</li>
 </ul>
 <hr>
 </section>
-<section id="ph.d.-scholar-upgraded-to-senior-research-fellow" class="level2">
-<h2 class="anchored" data-anchor-id="ph.d.-scholar-upgraded-to-senior-research-fellow">🏆 Ph.D.&nbsp;Scholar Upgraded to Senior Research Fellow</h2>
-<p>Congratulations to <strong>Ms.&nbsp;Avantika Jakati</strong> on her successful upgradation to the position of <strong>Senior Research Fellow (SRF)</strong>.</p>
-<p>This achievement recognizes her excellent research progress and continued contribution to her doctoral research on <strong>plastic-degrading bacteria and antibiotic resistance in wastewater treatment sludge</strong>.</p>
+<section id="render-the-website" class="level3">
+<h3 class="anchored" data-anchor-id="render-the-website">2. Render the website</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <hr>
 </section>
-<section id="eight-students-join-icar-dogr-internship-programme" class="level2">
-<h2 class="anchored" data-anchor-id="eight-students-join-icar-dogr-internship-programme">🌱 Eight Students Join ICAR-DOGR Internship Programme</h2>
-<p>As the <strong>MoU Coordinator</strong> between our institution and <strong>ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)</strong>, I am pleased to share that <strong>eight students from the Department of Botany</strong> have joined the <strong>three-month internship programme</strong> at ICAR-DOGR.</p>
-<p>The internship provides students with valuable hands-on training in modern agricultural research, laboratory techniques, and onion and garlic research.</p>
-<hr>
-</section>
-<section id="ngsf-fellowship-award" class="level2">
-<h2 class="anchored" data-anchor-id="ngsf-fellowship-award">🎉 NGSF Fellowship Award</h2>
-<p>Congratulations to <strong>Ms.&nbsp;Lina Sonawane</strong> on being selected for the <strong>NGSF Fellowship</strong> to undertake a <strong>three-month internship programme at ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)</strong>.</p>
-<p>We wish her every success in her research journey.</p>
-<hr>
-</section>
-</section>
-<section id="section-1" class="level1">
-<h1>2025</h1>
-<section id="prestigious-edufi-fellowship-international-research-achievement" class="level2">
-<h2 class="anchored" data-anchor-id="prestigious-edufi-fellowship-international-research-achievement">🎓 Prestigious EDUFI Fellowship &amp; International Research Achievement</h2>
-<p>I am delighted to share a milestone that reflects the value of mentorship, collaboration, and perseverance.</p>
-<p>My first Ph.D.&nbsp;student, <strong>Ms.&nbsp;Shreya Kasar</strong>, was awarded the prestigious <strong>EDUFI Fellowship</strong> by the <strong>Finnish National Agency for Education</strong>, enabling her to undertake a fully funded six-month research visit to the <strong>Department of Microbiology, University of Helsinki, Finland</strong>.</p>
-<p>Through this fellowship, she completed a significant part of her doctoral research while receiving advanced training in metagenomics, functional microbiome analysis, and bioinformatics.</p>
-<p>This achievement is particularly significant because:</p>
+<section id="review" class="level3">
+<h3 class="anchored" data-anchor-id="review">3. Review</h3>
+<p>Open the local website and verify:</p>
 <ul>
-<li>She is the <strong>first Ph.D.&nbsp;student from our college</strong> to complete a substantial part of her doctoral research through an international collaboration.</li>
-<li>She is the <strong>first student from the Department of Botany under Savitribai Phule Pune University (SPPU)</strong> to receive the prestigious <strong>EDUFI Fellowship</strong>.</li>
+<li>Desktop layout</li>
+<li>Mobile layout</li>
+<li>Images</li>
+<li>Links</li>
+<li>Typography</li>
 </ul>
-<p>This accomplishment reflects her dedication, perseverance, and scientific commitment, together with the continuous encouragement and support of our institution and collaborators.</p>
+<hr>
+</section>
+<section id="git-status" class="level3">
+<h3 class="anchored" data-anchor-id="git-status">4. Git Status</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> status</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Review the modified files before committing.</p>
+<hr>
+</section>
+<section id="stage-changes" class="level3">
+<h3 class="anchored" data-anchor-id="stage-changes">5. Stage Changes</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+<section id="commit" class="level3">
+<h3 class="anchored" data-anchor-id="commit">6. Commit</h3>
+<p>Use meaningful commit messages.</p>
+<p>Examples:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Homepage v2.2: Add Latest News section"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Research page: Improve project cards"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+<section id="push" class="level3">
+<h3 class="anchored" data-anchor-id="push">7. Push</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <hr>
 </section>
 </section>
-<section id="stay-connected" class="level1">
-<h1>Stay Connected</h1>
-<p>Follow this page regularly for updates on:</p>
+<section id="website-design-principles" class="level1">
+<h1>Website Design Principles</h1>
+<p>The website should:</p>
 <ul>
-<li>Research publications</li>
-<li>Student achievements</li>
-<li>International collaborations</li>
-<li>Conferences and workshops</li>
-<li>Research funding</li>
-<li>Laboratory activities</li>
+<li>Maintain a clean academic appearance.</li>
+<li>Use original laboratory images whenever possible.</li>
+<li>Prioritize readability.</li>
+<li>Follow responsive design.</li>
+<li>Keep a consistent green colour palette.</li>
+<li>Avoid unnecessary visual clutter.</li>
+<li>Maintain consistent spacing across all pages.</li>
 </ul>
+<hr>
+</section>
+<section id="editing-rules" class="level1">
+<h1>Editing Rules</h1>
+<p>Before making changes:</p>
+<ul>
+<li>Work on one feature at a time.</li>
+<li>Render after every major change.</li>
+<li>Review visually before committing.</li>
+<li>Avoid editing multiple unrelated sections in one commit.</li>
+</ul>
+<hr>
+</section>
+<section id="homepage-structure" class="level1">
+<h1>Homepage Structure</h1>
+<p>The homepage follows this fixed structure.</p>
+<ol type="1">
+<li>Hero</li>
+<li>About the Lab</li>
+<li>Research Impact</li>
+<li>Featured Research</li>
+<li>Research Collaborations</li>
+<li>Latest News</li>
+<li>Join the Lab</li>
+<li>Footer</li>
+</ol>
+<p>This structure should remain consistent unless there is a compelling reason for a future redesign.</p>
+<hr>
+</section>
+<section id="documentation" class="level1">
+<h1>Documentation</h1>
+<p>Whenever a milestone is completed, update:</p>
+<ul>
+<li>CHANGELOG.md</li>
+<li>PROJECT_STATUS.md</li>
+</ul>
+<p>If the project direction changes significantly, update:</p>
+<ul>
+<li>WEBSITE_ROADMAP.md</li>
+<li>DEVELOPMENT_LOG.md</li>
+</ul>
+<hr>
+</section>
+<section id="branch-strategy" class="level1">
+<h1>Branch Strategy</h1>
+<p>Development currently occurs on the <code>master</code> branch.</p>
+<p>Future improvements may use feature branches before merging into the main website.</p>
+<hr>
+</section>
+<section id="contact" class="level1">
+<h1>Contact</h1>
+<p>Project Owner</p>
+<p><strong>Dr.&nbsp;Praveen B. Roylawar</strong></p>
+<p>Department of Botany</p>
+<p>S. N. Arts, D.J.M. Commerce &amp; B.N.S. Science College (Autonomous)</p>
+<p>Sangamner, Maharashtra, India</p>
 
 
 </section>

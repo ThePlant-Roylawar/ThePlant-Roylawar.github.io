@@ -7,6 +7,7 @@ render:
 
 website:
   title: "Roy Plant–Microbiome Lab"
+  google-analytics: "G-M5GVLBL64G"
 
   navbar:
     background: primary
