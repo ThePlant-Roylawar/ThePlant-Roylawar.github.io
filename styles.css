@@ -302,71 +302,64 @@ img.profile-photo:hover {
 ========================================== */
 
 .lab-footer{
-    width:100%;
-    margin-top:80px;
-    background:#1B5E20;
-    color:white;
-    padding:55px 20px 30px;
-}
 
-.footer-container{
-    max-width:1200px;
-    margin:0 auto;
+    margin-top:70px;
+
+    padding:40px 20px;
+
     text-align:center;
+
+    background:#1B5E20;
+
+    color:white;
+
 }
 
 .lab-footer h3{
-    color:#fff;
-    font-size:30px;
-    margin-bottom:18px;
+
+    color:white;
+
+    margin-bottom:15px;
+
 }
 
-.lab-footer p{
-    color:#E8F5E9;
-    text-align:center;
-    margin:10px 0;
+.lab-footer a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:0 12px;
+
+    font-weight:600;
+
+}
+
+.lab-footer a:hover{
+
+    text-decoration:underline;
+
 }
 
 .footer-links{
+
     margin:25px 0;
+
 }
 
-.footer-links a{
-    display:inline-block;
-    margin:8px 14px;
-    color:#fff;
-    text-decoration:none;
-    font-weight:600;
-    transition:.25s;
-}
+.footer-social{
 
-.footer-links a:hover{
-    color:#C8E6C9;
-    transform:translateY(-2px);
+    margin:20px 0;
+
 }
 
 .copyright{
-    margin-top:35px;
-    border-top:1px solid rgba(255,255,255,.2);
-    padding-top:20px;
+
+    margin-top:30px;
+
     font-size:15px;
-    color:#C8E6C9;
-}
 
-@media(max-width:768px){
-
-    .lab-footer{
-        padding:40px 20px;
-    }
-
-    .lab-footer h3{
-        font-size:24px;
-    }
-
-    .footer-links a{
-        display:block;
-        margin:10px 0;
-    }
+    opacity:.85;
 
 }
 /* ==========================================
