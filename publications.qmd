@@ -245,6 +245,22 @@ Suresh J. Gawande, Sivalingam Anandhan, Ashish Ingle, **Praveen Roylawar**, Kira
 
 :::
 
+::: {.publication-card}
+
+### First Report of Garlic Virus C Infecting Garlic in India
+
+**Authors**  
+**Praveen B. Roylawar**, Kiran S. Khandagale, Tushar B. Gawai, Suresh J. Gawande, M. Singh
+
+**Journal**  
+*Plant Disease* • Volume 103 • **2019** • Page 1439
+
+<div class="pub-buttons">
+<a href="https://doi.org/10.1094/PDIS-10-18-1890-PDN" target="_blank" class="pub-btn">🔗 DOI</a>
+</div>
+
+:::
+
 ---
 
 ## 2017
