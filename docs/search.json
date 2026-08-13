@@ -238,6 +238,97 @@
     "text": "🔗 Explore the Website\n\n📖 Learn about our research programmes\n👨‍🔬 Meet our research team\n📚 Browse publications\n📢 Read laboratory news\n🌱 Explore opportunities to join the laboratory\n📬 Contact us for collaborations and research enquiries"
   },
   {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "A visual collection of research activities, laboratory work, field studies, training programmes, scientific events, and collaborations from the Roylawar Plant–Microbiome Laboratory.\n\n\n\n\n\n\n\nLaboratory Research Plant–microbe interaction studies\n\n\n\n\n\nResearch Activities Experimental and laboratory work\n\n\n\n\n\nPlant Pathology Plant disease and pathogen studies\n\n\n\n\n\n\n\n\n\n\n\nField Research Crop and rhizosphere studies\n\n\n\n\n\nCrop Research Research in agricultural systems\n\n\n\n\n\nPlant Research Plant–microbiome investigations\n\n\n\n\n\n\n\n\n\n\n\nStudent Training Hands-on scientific training\n\n\n\n\n\nResearch Training Practical laboratory sessions\n\n\n\n\n\nScientific Activities Workshops and academic activities\n\n\n\n\n\n\n\n\n\n\n\nResearch Collaboration Academic and research partnerships\n\n\n\n\n\nScientific Events Conferences, workshops and meetings\n\n\n\n\n\nLaboratory Activities Academic and outreach activities"
+  },
+  {
+    "objectID": "gallery.html#research-laboratory-work",
+    "href": "gallery.html#research-laboratory-work",
+    "title": "Gallery",
+    "section": "",
+    "text": "Laboratory Research Plant–microbe interaction studies\n\n\n\n\n\nResearch Activities Experimental and laboratory work\n\n\n\n\n\nPlant Pathology Plant disease and pathogen studies"
+  },
+  {
+    "objectID": "gallery.html#field-crop-research",
+    "href": "gallery.html#field-crop-research",
+    "title": "Gallery",
+    "section": "",
+    "text": "Field Research Crop and rhizosphere studies\n\n\n\n\n\nCrop Research Research in agricultural systems\n\n\n\n\n\nPlant Research Plant–microbiome investigations"
+  },
+  {
+    "objectID": "gallery.html#training-scientific-activities",
+    "href": "gallery.html#training-scientific-activities",
+    "title": "Gallery",
+    "section": "",
+    "text": "Student Training Hands-on scientific training\n\n\n\n\n\nResearch Training Practical laboratory sessions\n\n\n\n\n\nScientific Activities Workshops and academic activities"
+  },
+  {
+    "objectID": "gallery.html#collaborations-events",
+    "href": "gallery.html#collaborations-events",
+    "title": "Gallery",
+    "section": "",
+    "text": "Research Collaboration Academic and research partnerships\n\n\n\n\n\nScientific Events Conferences, workshops and meetings\n\n\n\n\n\nLaboratory Activities Academic and outreach activities"
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing Guide",
+    "section": "",
+    "text": "Contributing Guide\nThank you for contributing to the Roy Plant–Microbiome Laboratory website.\nThis document describes the workflow for updating and maintaining the website.\n\n\n\nWebsite Technology\nThis website is built using:\n\nQuarto\nHTML\nCSS\nGit\nGitHub Pages\n\nSource files are written in .qmd format and rendered into the docs/ directory.\n\n\n\nProject Structure\nThePlant-Roylawar.github.io\n\n│\n├── index.qmd\n├── about.qmd\n├── research.qmd\n├── projects.qmd\n├── team.qmd\n├── publications.qmd\n├── news.qmd\n├── join.qmd\n├── contact.qmd\n│\n├── styles.css\n├── footer.html\n├── images/\n├── docs/\n│\n├── CHANGELOG.md\n├── PROJECT_STATUS.md\n├── WEBSITE_ROADMAP.md\n├── DEVELOPMENT_LOG.md\n└── CONTRIBUTING.md\n\n\n\nDevelopment Workflow\nEvery change should follow the same workflow.\n\n1. Edit files\nModify only the required files.\nExample:\n\nindex.qmd\nresearch.qmd\nstyles.css\n\n\n\n\n2. Render the website\nquarto render\n\n\n\n3. Review\nOpen the local website and verify:\n\nDesktop layout\nMobile layout\nImages\nLinks\nTypography\n\n\n\n\n4. Git Status\ngit status\nReview the modified files before committing.\n\n\n\n5. Stage Changes\ngit add .\n\n\n\n6. Commit\nUse meaningful commit messages.\nExamples:\ngit commit -m \"Homepage v2.2: Add Latest News section\"\ngit commit -m \"Research page: Improve project cards\"\n\n\n\n7. Push\ngit push\n\n\n\n\nWebsite Design Principles\nThe website should:\n\nMaintain a clean academic appearance.\nUse original laboratory images whenever possible.\nPrioritize readability.\nFollow responsive design.\nKeep a consistent green colour palette.\nAvoid unnecessary visual clutter.\nMaintain consistent spacing across all pages.\n\n\n\n\nEditing Rules\nBefore making changes:\n\nWork on one feature at a time.\nRender after every major change.\nReview visually before committing.\nAvoid editing multiple unrelated sections in one commit.\n\n\n\n\nHomepage Structure\nThe homepage follows this fixed structure.\n\nHero\nAbout the Lab\nResearch Impact\nFeatured Research\nResearch Collaborations\nLatest News\nJoin the Lab\nFooter\n\nThis structure should remain consistent unless there is a compelling reason for a future redesign.\n\n\n\nDocumentation\nWhenever a milestone is completed, update:\n\nCHANGELOG.md\nPROJECT_STATUS.md\n\nIf the project direction changes significantly, update:\n\nWEBSITE_ROADMAP.md\nDEVELOPMENT_LOG.md\n\n\n\n\nBranch Strategy\nDevelopment currently occurs on the master branch.\nFuture improvements may use feature branches before merging into the main website.\n\n\n\nContact\nProject Owner\nDr. Praveen B. Roylawar\nDepartment of Botany\nS. N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
+  },
+  {
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "All notable changes to the Roylawar Plant–Microbiome Laboratory website are documented in this file.\n\n\n\nRelease Date: 04 August 2026\n\n\n\nRedesigned the homepage with a modern scientific layout.\nAdded a custom hero banner featuring original laboratory research images.\nIntroduced professional hero action buttons.\nAdded the “About the Lab” section.\nAdded the “Research Impact” section.\nAdded the “Featured Research” section.\nRestored the “Research Collaborations” section.\nRemoved duplicate “Research Highlights” content.\nImproved homepage content flow.\n\n\n\n\n\nImproved typography and spacing.\nEnhanced mobile responsiveness.\nAdded reusable homepage components.\n\n\n\n\n\nAdded PROJECT_STATUS.md.\nAdded WEBSITE_ROADMAP.md.\nAdded DEVELOPMENT_LOG.md.\nEstablished Git version control workflow.\n\n\n\n\n\n\nPlanned improvements:\n\nHomepage News section\nJoin the Lab section\nFooter redesign\nResearch page improvements"
+  },
+  {
+    "objectID": "CHANGELOG.html#version-2.1",
+    "href": "CHANGELOG.html#version-2.1",
+    "title": "Changelog",
+    "section": "",
+    "text": "Release Date: 04 August 2026\n\n\n\nRedesigned the homepage with a modern scientific layout.\nAdded a custom hero banner featuring original laboratory research images.\nIntroduced professional hero action buttons.\nAdded the “About the Lab” section.\nAdded the “Research Impact” section.\nAdded the “Featured Research” section.\nRestored the “Research Collaborations” section.\nRemoved duplicate “Research Highlights” content.\nImproved homepage content flow.\n\n\n\n\n\nImproved typography and spacing.\nEnhanced mobile responsiveness.\nAdded reusable homepage components.\n\n\n\n\n\nAdded PROJECT_STATUS.md.\nAdded WEBSITE_ROADMAP.md.\nAdded DEVELOPMENT_LOG.md.\nEstablished Git version control workflow."
+  },
+  {
+    "objectID": "CHANGELOG.html#upcoming-version-2.2",
+    "href": "CHANGELOG.html#upcoming-version-2.2",
+    "title": "Changelog",
+    "section": "",
+    "text": "Planned improvements:\n\nHomepage News section\nJoin the Lab section\nFooter redesign\nResearch page improvements"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Principal Investigator",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
+  },
+  {
+    "objectID": "about.html#dr.-praveen-b.-roylawar",
+    "href": "about.html#dr.-praveen-b.-roylawar",
+    "title": "Principal Investigator",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
+  },
+  {
+    "objectID": "contact.html#dr.-praveen-b.-roylawar",
+    "href": "contact.html#dr.-praveen-b.-roylawar",
+    "title": "Contact",
+    "section": "Dr. Praveen B. Roylawar",
+    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
+  },
+  {
     "objectID": "DEVELOPMENT_LOG.html",
     "href": "DEVELOPMENT_LOG.html",
     "title": "Roy Plant–Microbiome Laboratory Website",
@@ -264,62 +355,6 @@
     "title": "Roy Plant–Microbiome Laboratory Website",
     "section": "Next Sprint",
     "text": "Next Sprint\n\nLatest Publications\nHomepage News\nJoin the Lab call-to-action\nModern footer redesign"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "We welcome opportunities for research collaboration, student supervision, academic exchange, and scientific partnerships. Please feel free to contact us."
-  },
-  {
-    "objectID": "contact.html#dr.-praveen-b.-roylawar",
-    "href": "contact.html#dr.-praveen-b.-roylawar",
-    "title": "Contact",
-    "section": "Dr. Praveen B. Roylawar",
-    "text": "Dr. Praveen B. Roylawar\nAssistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner – 422605\nMaharashtra, India"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Principal Investigator",
-    "section": "",
-    "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
-  },
-  {
-    "objectID": "about.html#dr.-praveen-b.-roylawar",
-    "href": "about.html#dr.-praveen-b.-roylawar",
-    "title": "Principal Investigator",
-    "section": "",
-    "text": "Assistant Professor\nDepartment of Botany\nS.N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
-  },
-  {
-    "objectID": "CHANGELOG.html",
-    "href": "CHANGELOG.html",
-    "title": "Changelog",
-    "section": "",
-    "text": "All notable changes to the Roylawar Plant–Microbiome Laboratory website are documented in this file.\n\n\n\nRelease Date: 04 August 2026\n\n\n\nRedesigned the homepage with a modern scientific layout.\nAdded a custom hero banner featuring original laboratory research images.\nIntroduced professional hero action buttons.\nAdded the “About the Lab” section.\nAdded the “Research Impact” section.\nAdded the “Featured Research” section.\nRestored the “Research Collaborations” section.\nRemoved duplicate “Research Highlights” content.\nImproved homepage content flow.\n\n\n\n\n\nImproved typography and spacing.\nEnhanced mobile responsiveness.\nAdded reusable homepage components.\n\n\n\n\n\nAdded PROJECT_STATUS.md.\nAdded WEBSITE_ROADMAP.md.\nAdded DEVELOPMENT_LOG.md.\nEstablished Git version control workflow.\n\n\n\n\n\n\nPlanned improvements:\n\nHomepage News section\nJoin the Lab section\nFooter redesign\nResearch page improvements"
-  },
-  {
-    "objectID": "CHANGELOG.html#version-2.1",
-    "href": "CHANGELOG.html#version-2.1",
-    "title": "Changelog",
-    "section": "",
-    "text": "Release Date: 04 August 2026\n\n\n\nRedesigned the homepage with a modern scientific layout.\nAdded a custom hero banner featuring original laboratory research images.\nIntroduced professional hero action buttons.\nAdded the “About the Lab” section.\nAdded the “Research Impact” section.\nAdded the “Featured Research” section.\nRestored the “Research Collaborations” section.\nRemoved duplicate “Research Highlights” content.\nImproved homepage content flow.\n\n\n\n\n\nImproved typography and spacing.\nEnhanced mobile responsiveness.\nAdded reusable homepage components.\n\n\n\n\n\nAdded PROJECT_STATUS.md.\nAdded WEBSITE_ROADMAP.md.\nAdded DEVELOPMENT_LOG.md.\nEstablished Git version control workflow."
-  },
-  {
-    "objectID": "CHANGELOG.html#upcoming-version-2.2",
-    "href": "CHANGELOG.html#upcoming-version-2.2",
-    "title": "Changelog",
-    "section": "",
-    "text": "Planned improvements:\n\nHomepage News section\nJoin the Lab section\nFooter redesign\nResearch page improvements"
-  },
-  {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Contributing Guide",
-    "section": "",
-    "text": "Contributing Guide\nThank you for contributing to the Roy Plant–Microbiome Laboratory website.\nThis document describes the workflow for updating and maintaining the website.\n\n\n\nWebsite Technology\nThis website is built using:\n\nQuarto\nHTML\nCSS\nGit\nGitHub Pages\n\nSource files are written in .qmd format and rendered into the docs/ directory.\n\n\n\nProject Structure\nThePlant-Roylawar.github.io\n\n│\n├── index.qmd\n├── about.qmd\n├── research.qmd\n├── projects.qmd\n├── team.qmd\n├── publications.qmd\n├── news.qmd\n├── join.qmd\n├── contact.qmd\n│\n├── styles.css\n├── footer.html\n├── images/\n├── docs/\n│\n├── CHANGELOG.md\n├── PROJECT_STATUS.md\n├── WEBSITE_ROADMAP.md\n├── DEVELOPMENT_LOG.md\n└── CONTRIBUTING.md\n\n\n\nDevelopment Workflow\nEvery change should follow the same workflow.\n\n1. Edit files\nModify only the required files.\nExample:\n\nindex.qmd\nresearch.qmd\nstyles.css\n\n\n\n\n2. Render the website\nquarto render\n\n\n\n3. Review\nOpen the local website and verify:\n\nDesktop layout\nMobile layout\nImages\nLinks\nTypography\n\n\n\n\n4. Git Status\ngit status\nReview the modified files before committing.\n\n\n\n5. Stage Changes\ngit add .\n\n\n\n6. Commit\nUse meaningful commit messages.\nExamples:\ngit commit -m \"Homepage v2.2: Add Latest News section\"\ngit commit -m \"Research page: Improve project cards\"\n\n\n\n7. Push\ngit push\n\n\n\n\nWebsite Design Principles\nThe website should:\n\nMaintain a clean academic appearance.\nUse original laboratory images whenever possible.\nPrioritize readability.\nFollow responsive design.\nKeep a consistent green colour palette.\nAvoid unnecessary visual clutter.\nMaintain consistent spacing across all pages.\n\n\n\n\nEditing Rules\nBefore making changes:\n\nWork on one feature at a time.\nRender after every major change.\nReview visually before committing.\nAvoid editing multiple unrelated sections in one commit.\n\n\n\n\nHomepage Structure\nThe homepage follows this fixed structure.\n\nHero\nAbout the Lab\nResearch Impact\nFeatured Research\nResearch Collaborations\nLatest News\nJoin the Lab\nFooter\n\nThis structure should remain consistent unless there is a compelling reason for a future redesign.\n\n\n\nDocumentation\nWhenever a milestone is completed, update:\n\nCHANGELOG.md\nPROJECT_STATUS.md\n\nIf the project direction changes significantly, update:\n\nWEBSITE_ROADMAP.md\nDEVELOPMENT_LOG.md\n\n\n\n\nBranch Strategy\nDevelopment currently occurs on the master branch.\nFuture improvements may use feature branches before merging into the main website.\n\n\n\nContact\nProject Owner\nDr. Praveen B. Roylawar\nDepartment of Botany\nS. N. Arts, D.J.M. Commerce & B.N.S. Science College (Autonomous)\nSangamner, Maharashtra, India"
   },
   {
     "objectID": "index.html",

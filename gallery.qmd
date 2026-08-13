@@ -1,0 +1,135 @@
+---
+title: "Gallery"
+---
+
+# Laboratory Gallery
+
+A visual collection of research activities, laboratory work, field studies, training programmes, scientific events, and collaborations from the Roylawar Plant–Microbiome Laboratory.
+
+---
+
+## Research & Laboratory Work
+
+<div class="gallery-grid">
+
+<div class="gallery-item">
+<img src="images/gallery/research-01.jpg" alt="Laboratory research">
+<div class="gallery-caption">
+<strong>Laboratory Research</strong>
+<span>Plant–microbe interaction studies</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/research-02.jpg" alt="Research activity">
+<div class="gallery-caption">
+<strong>Research Activities</strong>
+<span>Experimental and laboratory work</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/research-03.jpg" alt="Plant pathology research">
+<div class="gallery-caption">
+<strong>Plant Pathology</strong>
+<span>Plant disease and pathogen studies</span>
+</div>
+</div>
+
+</div>
+
+---
+
+## Field & Crop Research
+
+<div class="gallery-grid">
+
+<div class="gallery-item">
+<img src="images/gallery/field-01.jpg" alt="Field research">
+<div class="gallery-caption">
+<strong>Field Research</strong>
+<span>Crop and rhizosphere studies</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/field-02.jpg" alt="Crop research">
+<div class="gallery-caption">
+<strong>Crop Research</strong>
+<span>Research in agricultural systems</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/field-03.jpg" alt="Plant research">
+<div class="gallery-caption">
+<strong>Plant Research</strong>
+<span>Plant–microbiome investigations</span>
+</div>
+</div>
+
+</div>
+
+---
+
+## Training & Scientific Activities
+
+<div class="gallery-grid">
+
+<div class="gallery-item">
+<img src="images/gallery/training-01.jpg" alt="Student training">
+<div class="gallery-caption">
+<strong>Student Training</strong>
+<span>Hands-on scientific training</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/training-02.jpg" alt="Scientific training">
+<div class="gallery-caption">
+<strong>Research Training</strong>
+<span>Practical laboratory sessions</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/training-03.jpg" alt="Scientific activity">
+<div class="gallery-caption">
+<strong>Scientific Activities</strong>
+<span>Workshops and academic activities</span>
+</div>
+</div>
+
+</div>
+
+---
+
+## Collaborations & Events
+
+<div class="gallery-grid">
+
+<div class="gallery-item">
+<img src="images/gallery/collaboration-01.jpg" alt="Research collaboration">
+<div class="gallery-caption">
+<strong>Research Collaboration</strong>
+<span>Academic and research partnerships</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/event-01.jpg" alt="Scientific event">
+<div class="gallery-caption">
+<strong>Scientific Events</strong>
+<span>Conferences, workshops and meetings</span>
+</div>
+</div>
+
+<div class="gallery-item">
+<img src="images/gallery/event-02.jpg" alt="Laboratory event">
+<div class="gallery-caption">
+<strong>Laboratory Activities</strong>
+<span>Academic and outreach activities</span>
+</div>
+</div>
+
+</div>

@@ -37,6 +37,9 @@ website:
       - href: news.qmd
         text: News
 
+      - href: gallery.html
+        text: Gallery
+
       - href: contact.qmd
         text: Contact
 
