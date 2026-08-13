@@ -97,7 +97,7 @@ Exploring Rhizosphere Microflora for the Biological Control of Onion (*Allium ce
 - Biological Control
 - Rhizosphere Microbiology
 - Plant–Microbe Interactions
-- Insect–Microbe Ecology
+- SynComs Development
 - Sustainable Agriculture
 
 </div>
