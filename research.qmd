@@ -107,15 +107,6 @@ Our laboratory employs interdisciplinary approaches including:
 
 ---
 
-# Current Collaborating Institutions
-
-- University of Helsinki, Finland
-- ICAR – Directorate of Onion and Garlic Research (ICAR-DOGR)
-- Savitribai Phule Pune University
-- Centurion University of Technology and Management, Odisha
-
----
-
 # Future Research Directions
 
 The laboratory aims to develop microbiome-based technologies for sustainable agriculture through multidisciplinary research involving microbial ecology, genomics, biotechnology, and precision agriculture. Future work will focus on translating laboratory discoveries into field-level applications that enhance crop productivity while conserving environmental resources.
