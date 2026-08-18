@@ -4,100 +4,142 @@ title: "Gallery"
 
 # Laboratory Gallery
 
-A visual collection of research activities, laboratory work, field studies, training programmes, scientific events, and collaborations from the Roylawar Plant–Microbiome Laboratory.
+A visual collection of research activities, laboratory work, field studies, training programmes, scientific events, and collaborations from the Roy Plant–Microbiome Laboratory.
 
 ---
 
 ## Research & Laboratory Work
 
-<div class="gallery-grid">
+::: {.gallery-grid}
 
-<div class="gallery-item">
-<img src="images/gallery/research-01.jpg" alt="Laboratory research">
+::: {.gallery-item}
+
+<img src="images/gallery/a.solani.jpg" alt="Alternaria solani research">
+
 <div class="gallery-caption">
-<strong>Laboratory Research</strong>
-<span>Plant–microbe interaction studies</span>
-</div>
+<strong>Plant Pathology Research</strong>
+<span>Research on plant–pathogen interactions and disease biology.</span>
 </div>
 
-<div class="gallery-item">
-<img src="images/gallery/research-02.jpg" alt="Research activity">
+:::
+
+<div class="gallery-item gallery-wide">
+
+<div class="gallery-image-group">
+
+<img src="images/gallery/callose deposition.jpg" alt="Callose deposition">
+
+<img src="images/gallery/callose deposition 2.jpg" alt="Callose deposition">
+
+<img src="images/gallery/callose deposition 3.jpg" alt="Callose deposition">
+
+<img src="images/gallery/callose deposition 4.jpg" alt="Callose deposition">
+
+<img src="images/gallery/callose deposition 5.jpg" alt="Callose deposition">
+
+</div>
+
 <div class="gallery-caption">
-<strong>Research Activities</strong>
-<span>Experimental and laboratory work</span>
-</div>
+<strong>Callose Deposition and Plant Defence Responses</strong>
+<span>Microscopic visualization of callose deposition associated with plant defence responses.</span>
 </div>
 
-<div class="gallery-item">
-<img src="images/gallery/research-03.jpg" alt="Plant pathology research">
+</div>
+
+::: {.gallery-item}
+
+<img src="images/gallery/fungal spore germination.jpg" alt="Fungal spore germination">
+
 <div class="gallery-caption">
-<strong>Plant Pathology</strong>
-<span>Plant disease and pathogen studies</span>
+<strong>Fungal Spore Germination</strong>
+<span>Microscopic observation of fungal spore germination during laboratory studies.</span>
 </div>
+
+:::
+
+<div class="gallery-item gallery-wide">
+
+<div class="gallery-image-group">
+
+<img src="images/gallery/h2o2 dab0002.jpg" alt="DAB staining and hydrogen peroxide detection">
+
+<img src="images/gallery/h2o2 dab0027.jpg" alt="DAB staining and hydrogen peroxide detection">
+
+<img src="images/gallery/h2o2 dab0035.jpg" alt="DAB staining and hydrogen peroxide detection">
+
+</div>
+
+<div class="gallery-caption">
+<strong>Hydrogen Peroxide Accumulation and Oxidative Defence Response</strong>
+<span>DAB-based visualization of hydrogen peroxide accumulation associated with plant defence responses.</span>
 </div>
 
 </div>
+
+::: {.gallery-item}
+
+<img src="images/gallery/antibacterial effect nanoparticle.JPG" alt="Antibacterial effect of nanoparticles">
+
+<div class="gallery-caption">
+<strong>Nanoparticle Research</strong>
+<span>
+Evaluation of nanoparticle-associated antibacterial activity and characterization of Cu₂O-based materials.
+</span>
+</div>
+
+:::
+
+::: {.gallery-item}
+
+<img src="images/gallery/metagenomic.PNG" alt="Metagenomic analysis">
+
+<div class="gallery-caption">
+<strong>Metagenomic Analysis</strong>
+<span>Computational exploration of microbial communities and their functional potential.</span>
+</div>
+
+:::
+
+:::
 
 ---
 
 ## Field & Crop Research
 
-<div class="gallery-grid">
+<div class="gallery-note">
 
-<div class="gallery-item">
-<img src="images/gallery/field-01.jpg" alt="Field research">
-<div class="gallery-caption">
-<strong>Field Research</strong>
-<span>Crop and rhizosphere studies</span>
-</div>
-</div>
+<strong>Field and Crop Research</strong>
 
-<div class="gallery-item">
-<img src="images/gallery/field-02.jpg" alt="Crop research">
-<div class="gallery-caption">
-<strong>Crop Research</strong>
-<span>Research in agricultural systems</span>
-</div>
-</div>
-
-<div class="gallery-item">
-<img src="images/gallery/field-03.jpg" alt="Plant research">
-<div class="gallery-caption">
-<strong>Plant Research</strong>
-<span>Plant–microbiome investigations</span>
-</div>
-</div>
+<span>
+Our research extends from laboratory-based plant–microbe studies to crop-level investigations,
+including disease management, rhizosphere microbiome analysis, and sustainable agricultural applications.
+</span>
 
 </div>
 
 ---
 
-## Training & Scientific Activities
+<div class="gallery-item gallery-wide">
 
-<div class="gallery-grid">
+<div class="gallery-image-group">
 
-<div class="gallery-item">
-<img src="images/gallery/training-01.jpg" alt="Student training">
+<img src="images/gallery/student internship.jpeg" alt="Student research internship">
+
+<img src="images/gallery/student internship 2.jpeg" alt="Student research internship">
+
+<img src="images/gallery/student working.jpeg" alt="Student laboratory work">
+
+<img src="images/gallery/student working 2.jpeg" alt="Student laboratory work">
+
+<img src="images/gallery/student training 3.jpeg" alt="Student laboratory work">
+
+<img src="images/gallery/student training visit.jpeg" alt="Student laboratory work">
+
+</div>
+
 <div class="gallery-caption">
-<strong>Student Training</strong>
-<span>Hands-on scientific training</span>
-</div>
-</div>
-
-<div class="gallery-item">
-<img src="images/gallery/training-02.jpg" alt="Scientific training">
-<div class="gallery-caption">
-<strong>Research Training</strong>
-<span>Practical laboratory sessions</span>
-</div>
-</div>
-
-<div class="gallery-item">
-<img src="images/gallery/training-03.jpg" alt="Scientific activity">
-<div class="gallery-caption">
-<strong>Scientific Activities</strong>
-<span>Workshops and academic activities</span>
-</div>
+<strong>Student Research Training and Laboratory Activities</strong>
+<span>Hands-on research training and laboratory activities supporting student scientific development.</span>
 </div>
 
 </div>
@@ -106,30 +148,38 @@ A visual collection of research activities, laboratory work, field studies, trai
 
 ## Collaborations & Events
 
-<div class="gallery-grid">
+::: {.gallery-grid}
 
-<div class="gallery-item">
-<img src="images/gallery/collaboration-01.jpg" alt="Research collaboration">
+::: {.gallery-item}
+
+<img src="images/gallery/student visit.jpeg" alt="Student research visit">
+
 <div class="gallery-caption">
-<strong>Research Collaboration</strong>
-<span>Academic and research partnerships</span>
-</div>
+<strong>International Research Training & Collaboration</strong>
+<span>
+Research training and scientific exchange through international collaboration at the University of Helsinki.
+</span>
 </div>
 
-<div class="gallery-item">
-<img src="images/gallery/event-01.jpg" alt="Scientific event">
+:::
+
+:::
+
+---
+
+## Advanced Research Imaging
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+
+<img src="images/gallery/TEM 15kX Cu2O_0204.tif" alt="Transmission electron microscopy image of Cu2O">
+
 <div class="gallery-caption">
-<strong>Scientific Events</strong>
-<span>Conferences, workshops and meetings</span>
-</div>
-</div>
-
-<div class="gallery-item">
-<img src="images/gallery/event-02.jpg" alt="Laboratory event">
-<div class="gallery-caption">
-<strong>Laboratory Activities</strong>
-<span>Academic and outreach activities</span>
-</div>
+<strong>Transmission Electron Microscopy</strong>
+<span>High-resolution microscopy supporting nanoparticle characterization and materials research.</span>
 </div>
 
-</div>
+:::
+
+:::
